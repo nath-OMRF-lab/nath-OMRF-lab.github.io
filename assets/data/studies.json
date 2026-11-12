@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2025_Rallabandi_IJMS_CLEC16A",
+    "theme": "function",
+    "gene": "CLEC16A",
+    "title": "Defining mechanistic links between the non-coding variant rs17673553 in CLEC16A and lupus susceptibility",
+    "authors": "Rallabandi HR, Singh MK, Looger LL, Nath SK",
+    "journal": "Int J Mol Sci",
+    "year": 2025,
+    "doi": "10.3390/ijms26010314",
+    "cover": 5,
+    "summary": "Fine-mapping of the 16p13 lupus signal pointed to rs17673553, a conserved intronic variant in an enhancer. Reporter assays, ChIP-qPCR and CRISPR editing in B cells show that the risk allele changes enhancer activity at CLEC16A, and knocking out the region changes autophagy."
+  },
+  {
+    "id": "2023_Singh_FrontLupus_SLC15A4",
+    "theme": "function",
+    "gene": "SLC15A4",
+    "title": "A non-coding variant in SLC15A4 modulates enhancer activity and lysosomal deacidification linked to lupus susceptibility",
+    "authors": "Singh MK, Maiti GP, Rallabandi HR, Fazel-Najafabadi M, Looger LL, Nath SK",
+    "journal": "Front Lupus",
+    "year": 2023,
+    "doi": "10.3389/flupu.2023.1244670",
+    "cover": 4,
+    "summary": "eQTL and 3D chromatin analyses pointed to rs35907548 in an intronic enhancer of SLC15A4. The risk allele raises enhancer activity and target-gene expression through long-range contacts with nearby promoters. Deleting the enhancer with CRISPR/Cas9 changes endolysosomal acidification."
+  },
+  {
+    "id": "2022_FazelNajafabadi_Genes_2p13",
+    "theme": "function",
+    "gene": "DGUOK",
+    "title": "Discovery and functional characterization of two regulatory variants underlying lupus susceptibility at 2p13.1",
+    "authors": "Fazel-Najafabadi M, Rallabandi HR, Singh MK, Maiti GP, Morris J, Looger LL, Nath SK",
+    "journal": "Genes",
+    "year": 2022,
+    "doi": "10.3390/genes13061016",
+    "cover": 2,
+    "summary": "A meta-analysis of 10,252 cases and 21,604 controls narrowed the 2p13.1 locus to two variants near DGUOK. One (rs6705628) acts in a promoter and the other (rs2272165) in an enhancer, both in a cell-type- and allele-specific way."
+  },
+  {
+    "id": "2019_Molineros_FrontImmunol_RASGRP1",
+    "theme": "function",
+    "gene": "RASGRP1",
+    "title": "Mechanistic characterization of RASGRP1 variants identifies an hnRNP-K-regulated transcriptional enhancer contributing to SLE susceptibility",
+    "authors": "Molineros JE, Singh B, Terao C, … Looger LL, Nath SK",
+    "journal": "Front Immunol",
+    "year": 2019,
+    "doi": "10.3389/fimmu.2019.01066",
+    "cover": 1,
+    "summary": "A meta-analysis across six Asian and European cohorts (9,529 cases, 22,462 controls) followed by epigenetic fine-mapping found that RASGRP1 risk variants sit in an hnRNP-K-regulated enhancer. In T cells, this enhancer controls RASGRP1 expression and ERK signalling."
+  },
+  {
+    "id": "2022_Elghzaly_FrontGenet_EgyptianGWAS",
+    "theme": "discovery",
+    "gene": "GWAS",
+    "title": "Genome-wide association study for systemic lupus erythematosus in an Egyptian population",
+    "authors": "Elghzaly AA, Sun C, Looger LL, … Ragab G, Nath SK",
+    "journal": "Front Genet",
+    "year": 2022,
+    "doi": "10.3389/fgene.2022.948505",
+    "cover": 2,
+    "summary": "A genome-wide association study of lupus in Egypt, a population that is rarely studied. After quality control it included 458 cases and 769 controls. It found one new locus and several suggestive ones, and replicated many known SLE loci."
+  },
+  {
+    "id": "2019_Molineros_PLoSGenet_HLA",
+    "theme": "discovery",
+    "gene": "HLA",
+    "title": "Amino acid signatures of HLA Class-I and II molecules are strongly associated with SLE susceptibility and autoantibody production in Eastern Asians",
+    "authors": "Molineros JE, Looger LL, Kim K, … Nath SK",
+    "journal": "PLoS Genet",
+    "year": 2019,
+    "doi": "10.1371/journal.pgen.1008092",
+    "cover": 1,
+    "summary": "HLA alleles and amino acids were imputed for 4,915 cases and 13,513 controls from East Asia. Lupus risk mapped most strongly to HLA-DRB1 residue 13, with further independent signals in HLA-A, HLA-DPB1 and other HLA genes that are also linked to autoantibody production."
+  },
+  {
+    "id": "2017_Langefeld_NatCommun_Transancestral",
+    "theme": "discovery",
+    "gene": "Immunochip",
+    "title": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+    "authors": "Langefeld CD, Ainsworth HC, Graham DSC, … (international consortium)",
+    "journal": "Nat Commun",
+    "year": 2017,
+    "doi": "10.1038/ncomms16021",
+    "cover": 1,
+    "summary": "An Immunochip study of 27,574 people of European, African American and Hispanic Amerindian ancestry. It identified 24 new SLE regions and showed that lupus risk rises faster than linearly with the number of risk alleles a person carries."
+  },
+  {
+    "id": "2013_Molineros_PLoSGenet_IFIH1",
+    "theme": "discovery",
+    "gene": "IFIH1",
+    "title": "Admixture mapping in lupus identifies multiple functional variants within IFIH1 associated with apoptosis, inflammation, and autoantibody production",
+    "authors": "Molineros JE, Maiti AK, Sun C, … Nath SK",
+    "journal": "PLoS Genet",
+    "year": 2013,
+    "doi": "10.1371/journal.pgen.1003222",
+    "cover": 5,
+    "summary": "Admixture mapping in African Americans found a lupus locus at 2q22–24. Fine-mapping in 19,726 people narrowed it to three independent IFIH1 variants, which change apoptosis, inflammatory gene expression and protein binding."
+  }
+]

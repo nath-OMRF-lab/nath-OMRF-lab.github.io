@@ -1,0 +1,1634 @@
+[
+{
+"title": "A highly prevalent lupus risk haplotype increases IRF7-dependent induction of IFN-α, enhancing antiviral defense and exacerbating autoimmunity",
+"authors": "SJ Virolainen, K Creighton, M Dashtiahangar, D Krishnamurthy, L Parks, ...",
+"venue": "The American Journal of Human Genetics 113 (10), 2118-2139",
+"year": 2026,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Community series in towards precision medicine for immune-mediated disorders: advances in using big data and artificial intelligence to understand heterogeneity in inflammatory …",
+"authors": "X Zhou, L Zhou, CC Berthier, SK Nath",
+"venue": "Frontiers in Immunology 17, 1878718",
+"year": 2026,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Variants in IRF5 Increase the Risk of Primary Sjögren’s Syndrome in the Mexican Population",
+"authors": "J Ramírez-Bello, IA López-Briceño, G Valencia-Pacheco, ...",
+"venue": "International Journal of Molecular Sciences 27 (2), 599",
+"year": 2026,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Impaired molecular mechanisms contributing to chronic pain in patients with hidradenitis suppurativa: exploring potential biomarkers and therapeutic targets",
+"authors": "U Radhakrishna, MR Kuracha, I Hamzavi, N Saiyed, J Prajapati, ...",
+"venue": "International journal of molecular sciences 26 (3), 1039",
+"year": 2025,
+"citations": 10,
+"lab": false
+},
+{
+"title": "Defining Mechanistic Links Between the Non-Coding Variant rs17673553 in CLEC16A and Lupus Susceptibility",
+"authors": "HR Rallabandi, MK Singh, LL Looger, SK Nath",
+"venue": "International Journal of Molecular Sciences 26 (1), 314",
+"year": 2025,
+"citations": 6,
+"lab": true
+},
+{
+"title": "Genetic susceptibility to membranous lupus nephritis: a genome-wide association study",
+"authors": "Y Liu, T Gan, Y Qi, M Tan, L Xu, Y Li, J Liu, S Qu, L Wang, G Chen, J Lv, ...",
+"venue": "Annals of the Rheumatic Diseases 84 (11), 1948-1950",
+"year": 2025,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Hidradenitis Suppurativa is Associated With Non-Alcoholic Fatty Liver Disease Due to Dysregulated DNA Methylation",
+"authors": "S Ghosh, A Koppula, N Saiyed, A Vedangi, SK Nath, U Radhakrishna",
+"venue": "",
+"year": 2025,
+"citations": 0,
+"lab": false
+},
+{
+"title": "KLF2 enhancer variant rs4808485 increases lupus risk by modulating inflammasome machinery and cellular homoeostasis",
+"authors": "MK Singh, HR Rallabandi, XJ Zhou, YY Qi, ZZ Zhao, T Gan, H Zhang, ...",
+"venue": "Annals of the rheumatic diseases 83 (7), 879-888",
+"year": 2024,
+"citations": 11,
+"lab": false
+},
+{
+"title": "Angiogenesis related genes in Takayasu Arteritis (TAK): robust association with Tag SNPs of IL-18 and FGF-2 in a South Asian Cohort",
+"authors": "D Danda, R Goel, J Kabeerdoss, C Sun, S Danda, A Lincy Franklin, ...",
+"venue": "Journal of Human Genetics 69 (1), 13-18",
+"year": 2024,
+"citations": 10,
+"lab": false
+},
+{
+"title": "A multilayered post–genome‐wide association study analysis pipeline defines functional variants and target genes for systemic lupus erythematosus",
+"authors": "M Fazel‐Najafabadi, LL Looger, HR Rallabandi, SK Nath",
+"venue": "Arthritis & Rheumatology 76 (7), 1071-1084",
+"year": 2024,
+"citations": 7,
+"lab": true
+},
+{
+"title": "A multilayered post-GWAS analysis pipeline defines functional variants and target genes for systemic lupus erythematosus (SLE)",
+"authors": "M Fazel-Najafabadi, LL Looger, HR Rallabandi, SK Nath",
+"venue": "Arthritis & rheumatology (Hoboken, NJ) 76 (7), 1071",
+"year": 2024,
+"citations": 7,
+"lab": true
+},
+{
+"title": "Placental cytochrome P450 methylomes in infants exposed to prenatal opioids: Exploring the effects of neonatal opioid withdrawal syndrome on health horizons",
+"authors": "U Radhakrishna, S Sadhasivam, R Radhakrishnan, A Forray, SB Muvvala, ...",
+"venue": "Frontiers in genetics 14, 1292148",
+"year": 2024,
+"citations": 5,
+"lab": false
+},
+{
+"title": "A Multilayered Post-GWAS Analysis Defines Functional Variants and Target Genes for SLE",
+"authors": "SK Nath",
+"venue": "ARTHRITIS & RHEUMATOLOGY 76 (7)",
+"year": 2024,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Genome-wide association study in acute tubulointerstitial nephritis",
+"authors": "XJ Zhou, T Su, J Xie, QH Xie, LZ Wang, Y Hu, G Chen, Y Jia, JW Huang, ...",
+"venue": "Journal of the American Society of Nephrology: JASN 34 (5), 895",
+"year": 2023,
+"citations": 9,
+"lab": false
+},
+{
+"title": "A non-coding variant in SLC15A4 modulates enhancer activity and lysosomal deacidification linked to lupus susceptibility",
+"authors": "MK Singh, GP Maiti, HR Rallabandi, M Fazel-Najafabadi, LL Looger, ...",
+"venue": "Frontiers in lupus 1, 1244670",
+"year": 2023,
+"citations": 6,
+"lab": false
+},
+{
+"title": "Placental microRNA methylome signatures may serve as biomarkers and therapeutic targets for prenatally opioid-exposed infants with neonatal opioid withdrawal syndrome",
+"authors": "U Radhakrishna, SK Nath, LV Uppala, A Veerappa, A Forray, SB Muvvala, ...",
+"venue": "Frontiers in genetics 14, 1215472",
+"year": 2023,
+"citations": 5,
+"lab": false
+},
+{
+"title": "Increased carotid intima–media thickening and antioxidized low-density lipoprotein in an anti-Ro60 SLE autoantibody subset",
+"authors": "BT Kurien, J Fesmire, SK Nath, RH Scofield",
+"venue": "Frontiers in lupus 1, 1197309",
+"year": 2023,
+"citations": 4,
+"lab": false
+},
+{
+"title": "LO-030 Functional characterization of 2p22. 3 locus identifies PARP-1 as an allele-specific interactor at rs13385731 which mechanistically regulates RasGrp3 expression in …",
+"authors": "S Nath",
+"venue": "Lupus Science & Medicine 10 (Suppl 1)",
+"year": 2023,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Increased atherosclerotic plaque and anti-oxidized low density lipoprotein in anti-Ro60 SLE autoantibody subset",
+"authors": "BT Kurien, J Fesmire, SK Nath, RH Scofield",
+"venue": "bioRxiv, 2023.04. 04.535634",
+"year": 2023,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Genome-wide association study for systemic lupus erythematosus in an egyptian population",
+"authors": "AA Elghzaly, C Sun, LL Looger, M Hirose, M Salama, NM Khalil, ...",
+"venue": "Frontiers in genetics 13, 948505",
+"year": 2022,
+"citations": 22,
+"lab": false
+},
+{
+"title": "Genetics matters: voyaging from the past into the future of humanity and sustainability",
+"authors": "A Cheng, JA Harikrishna, CS Redwood, LC Lit, SK Nath, KH Chua",
+"venue": "International Journal of Molecular Sciences 23 (7), 3976",
+"year": 2022,
+"citations": 16,
+"lab": false
+},
+{
+"title": "Discovery and functional characterization of two regulatory variants underlying lupus susceptibility at 2p13. 1",
+"authors": "M Fazel-Najafabadi, HR Rallabandi, MK Singh, GP Maiti, J Morris, ...",
+"venue": "Genes 13 (6), 1016",
+"year": 2022,
+"citations": 8,
+"lab": false
+},
+{
+"title": "1401 A genome wide association scan of SLE genetic risk in a cohort of African-American persons",
+"authors": "ITW Harley, C Sun, AH Williams, JT Ziegler, ME Comeau, MC Marion, ...",
+"venue": "Lupus Science & Medicine 9 (Suppl 3)",
+"year": 2022,
+"citations": 2,
+"lab": false
+},
+{
+"title": "Biallelic variants in KARS1 are associated with neurodevelopmental disorders and hearing loss recapitulated by the knockout zebrafish",
+"authors": "SJ Lin, B Vona, PG Barbalho, R Kaiyrzhanov, R Maroofian, C Petree, ...",
+"venue": "Genetics in Medicine 23 (10), 1933-1943",
+"year": 2021,
+"citations": 34,
+"lab": false
+},
+{
+"title": "Lupus Susceptibility Region Containing CDKN1B rs34330 Mechanistically Influences Expression and Function of Multiple Target Genes, Also Linked to …",
+"authors": "B Singh, GP Maiti, X Zhou, M Fazel‐Najafabadi, SC Bae, C Sun, C Terao, ...",
+"venue": "Arthritis & Rheumatology 73 (12), 2303-2313",
+"year": 2021,
+"citations": 22,
+"lab": false
+},
+{
+"title": "Maternal opioid use disorder: placental transcriptome analysis for neonatal opioid withdrawal syndrome",
+"authors": "U Radhakrishna, SK Nath, S Vishweswaraiah, LV Uppala, A Forray, ...",
+"venue": "Genomics 113 (6), 3610-3617",
+"year": 2021,
+"citations": 22,
+"lab": false
+},
+{
+"title": "Deep sequencing reveals a DAP1 regulatory haplotype that potentiates autoimmunity in systemic lupus erythematosus",
+"authors": "P Raj, R Song, H Zhu, L Riediger, DJ Jun, C Liang, C Arana, B Zhang, ...",
+"venue": "Genome biology 21 (1), 281",
+"year": 2020,
+"citations": 13,
+"lab": false
+},
+{
+"title": "Genetic Associations and Polygenic Risk Assessment in Incomplete Lupus Erythematosus",
+"authors": "M Slief, J Levin, S Macwana, W DeJager, R Bourn, S Nath, M Munroe, ...",
+"venue": "ARTHRITIS & RHEUMATOLOGY 72",
+"year": 2020,
+"citations": 1,
+"lab": false
+},
+{
+"title": "Functional characterization of a CDKN1B variant for defining the target genes and their mechanistic underpinnings contributing to SLE susceptibility",
+"authors": "SK Nath",
+"venue": "GENETIC EPIDEMIOLOGY 44 (5), 507-507",
+"year": 2020,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Amino acid signatures of HLA Class-I and II molecules are strongly associated with SLE susceptibility and autoantibody production in Eastern Asians",
+"authors": "JE Molineros, LL Looger, K Kim, Y Okada, C Terao, C Sun, X Zhou, P Raj, ...",
+"venue": "PLoS genetics 15 (4), e1008092",
+"year": 2019,
+"citations": 71,
+"lab": false
+},
+{
+"title": "Mechanistic Characterization of RASGRP1 Variants Identifies an hnRNP-K-Regulated Transcriptional Enhancer Contributing to SLE Susceptibility",
+"authors": "JE Molineros, B Singh, C Terao, Y Okada, J Kaplan, B McDaniel, ...",
+"venue": "Frontiers in immunology 10, 1066",
+"year": 2019,
+"citations": 27,
+"lab": false
+},
+{
+"title": "Impact of functional IL-18 polymorphisms on genetic predisposition and diverse clinical manifestations of the disease in Indian SLE patients",
+"authors": "V Umare, V Pradhan, S Nath, A Rajadhyaksha, K Ghosh, AH Nadkarni",
+"venue": "Lupus 28 (4), 545-554",
+"year": 2019,
+"citations": 25,
+"lab": false
+},
+{
+"title": "ITGAM is a risk factor to systemic lupus erythematosus and possibly a protection factor to rheumatoid arthritis in patients from Mexico",
+"authors": "J Ramírez-Bello, C Sun, G Valencia-Pacheco, B Singh, ...",
+"venue": "PLoS One 14 (11), e0224543",
+"year": 2019,
+"citations": 22,
+"lab": false
+},
+{
+"title": "A plausibly causal functional lupus-associated risk variant in the STAT1–STAT4 locus",
+"authors": "ZH Patel, X Lu, D Miller, CR Forney, J Lee, A Lynch, C Schroeder, L Parks, ...",
+"venue": "Human molecular genetics 27 (13), 2392-2404",
+"year": 2018,
+"citations": 45,
+"lab": false
+},
+{
+"title": "Genetic variants in systemic lupus erythematosus susceptibility loci, XKR6 and GLT1D1 are associated with childhood-onset SLE in a Korean cohort",
+"authors": "YB Joo, J Lim, BP Tsao, SK Nath, K Kim, SC Bae",
+"venue": "Scientific Reports 8 (1), 9962",
+"year": 2018,
+"citations": 44,
+"lab": false
+},
+{
+"title": "A Rare Variant (rs933717) at FBXO31‐MAP1LC3B in Chinese Is Associated With Systemic Lupus Erythematosus",
+"authors": "Y Qi, X Zhou, SK Nath, C Sun, Y Wang, P Hou, R Mu, C Li, J Guo, Z Li, ...",
+"venue": "Arthritis & Rheumatology 70 (2), 287-297",
+"year": 2018,
+"citations": 24,
+"lab": false
+},
+{
+"title": "Identification of proteins interacting with single nucleotide polymorphisms (SNPs) by DNA pull-down assay",
+"authors": "B Singh, SK Nath",
+"venue": "Electrophoretic Separation of Proteins: Methods and Protocols, 355-362",
+"year": 2018,
+"citations": 15,
+"lab": true
+},
+{
+"title": "Publisher Correction: Genetic variants in systemic lupus erythematosus susceptibility loci, XKR6 and GLT1D1 are associated with childhood-onset SLE in a Korean cohort",
+"authors": "YB Joo, J Lim, BP Tsao, SK Nath, K Kim, SC Bae",
+"venue": "Scientific Reports 8, 11713",
+"year": 2018,
+"citations": 1,
+"lab": false
+},
+{
+"title": "Plausibilidad genética de la infección por el virus del Zika y el síndrome de Guillain-Barré",
+"authors": "JM Anaya, C Sun, YY Acosta-Ampudia, DM Monsalve Carmona, ...",
+"venue": "Medicina (Bogotá), 163-164",
+"year": 2018,
+"citations": 1,
+"lab": false
+},
+{
+"title": "GG-07 Regulatory polymorphisms in EMSY gene are associated with autoantibodies in healthy individuals",
+"authors": "P Raj, R Song, BE Wakeland, I Dozmorov, K Viswanathan, C Liang, ...",
+"venue": "Lupus Science & Medicine 5 (Suppl 2)",
+"year": 2018,
+"citations": 0,
+"lab": false
+},
+{
+"title": "THU0007 Genetic variants in sle susceptibility loci, xkr6 and glt1d1, are associated with childhood-onset sle in a korean cohort",
+"authors": "YB Joo, J Lim, BP Tsao, SK Nath, K Kim, SC Bae",
+"venue": "Annals of the Rheumatic Diseases 77, 233",
+"year": 2018,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+"authors": "CD Langefeld, HC Ainsworth, DSC Graham, JA Kelly, ME Comeau, ...",
+"venue": "Nature communications 8 (1), 16021",
+"year": 2017,
+"citations": 486,
+"lab": false
+},
+{
+"title": "CD11b activation suppresses TLR-dependent inflammation and autoimmunity in systemic lupus erythematosus",
+"authors": "MH Faridi, SQ Khan, W Zhao, HW Lee, MM Altintas, K Zhang, V Kumar, ...",
+"venue": "The Journal of clinical investigation 127 (4), 1271-1283",
+"year": 2017,
+"citations": 131,
+"lab": false
+},
+{
+"title": "Confirmation of five novel susceptibility loci for systemic lupus erythematosus (SLE) and integrated network analysis of 82 SLE susceptibility loci",
+"authors": "JE Molineros, W Yang, X Zhou, C Sun, Y Okada, H Zhang, K Heng Chua, ...",
+"venue": "Human molecular genetics 26 (6), 1205-1216",
+"year": 2017,
+"citations": 94,
+"lab": false
+},
+{
+"title": "Genotype-phenotype study of the middle Gangetic plain in India shows association of rs2470102 with skin pigmentation",
+"authors": "A Mishra, S Nizammuddin, CB Mallick, S Singh, S Prakash, NA Siddiqui, ...",
+"venue": "Journal of Investigative Dermatology 137 (3), 670-677",
+"year": 2017,
+"citations": 33,
+"lab": false
+},
+{
+"title": "Interleukin-17F and interleukin-6 gene polymorphisms in Asian Indian patients with Takayasu arteritis",
+"authors": "D Danda, R Goel, S Danda, H Mohan, G Joseph, J Kabeerdoss, SK Nath",
+"venue": "Human Immunology 78 (7-8), 515-520",
+"year": 2017,
+"citations": 20,
+"lab": true
+},
+{
+"title": "Evaluation of 10 SLE susceptibility loci in Asian populations, which were initially identified in European populations",
+"authors": "Y Zhang, X Zhou, SK Nath, C Sun, M Zhao, H Zhang",
+"venue": "Scientific reports 7 (1), 41399",
+"year": 2017,
+"citations": 14,
+"lab": false
+},
+{
+"title": "Intronic variants of the B-cell proliferator RASGRP3 affect its expression, and might contribute to lupus risk",
+"authors": "B Singh, P Borden, J Molineros, C Sun, L Looger, S Nath",
+"venue": "ARTHRITIS & RHEUMATOLOGY 69",
+"year": 2017,
+"citations": 1,
+"lab": true
+},
+{
+"title": "3 Confirmation of 5 novel susceptibility loci for systemic lupus erythematosus (sle) and integrated network analysis of 82 sle susceptibility loci",
+"authors": "S Nath, W Yang, XJ Zhou, C Sun, Y Okada, SC Bae, N Shen, J Molineros",
+"venue": "Lupus Science & Medicine 4 (Suppl 1)",
+"year": 2017,
+"citations": 0,
+"lab": true
+},
+{
+"title": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+"authors": "C Sun, JE Molineros, LL Looger, X Zhou, K Kim, Y Okada, J Ma, Y Qi, ...",
+"venue": "Nature genetics 48 (3), 323-330",
+"year": 2016,
+"citations": 290,
+"lab": false
+},
+{
+"title": "Genome‐wide association study in an Amerindian ancestry population reveals novel systemic lupus erythematosus risk loci and the role of European admixture",
+"authors": "ME Alarcón‐Riquelme, JT Ziegler, J Molineros, TD Howard, ...",
+"venue": "Arthritis & rheumatology 68 (4), 932-943",
+"year": 2016,
+"citations": 188,
+"lab": false
+},
+{
+"title": "Regulatory polymorphisms modulate the expression of HLA class II molecules and promote autoimmunity",
+"authors": "P Raj, E Rai, R Song, S Khan, BE Wakeland, K Viswanathan, C Arana, ...",
+"venue": "elife 5, e12089",
+"year": 2016,
+"citations": 155,
+"lab": false
+},
+{
+"title": "Imputing variants in HLA-DR beta genes reveals that HLA-DRB1 is solely associated with rheumatoid arthritis and systemic lupus erythematosus",
+"authors": "K Kim, SY Bang, DH Yoo, SK Cho, CB Choi, YK Sung, TH Kim, JB Jun, ...",
+"venue": "PLoS One 11 (2), e0150283",
+"year": 2016,
+"citations": 42,
+"lab": false
+},
+{
+"title": "Disease features and outcomes in United States lupus patients of Hispanic origin and their Mestizo counterparts in Latin America: a commentary",
+"authors": "MF Ugarte-Gil, GJ Pons-Estel, J Molineros, D Wojdyla, G McGwin Jr, ...",
+"venue": "Rheumatology 55 (3), 436-440",
+"year": 2016,
+"citations": 41,
+"lab": false
+},
+{
+"title": "Expanding the spectrum of csecretase gene mutation-associated phenotypes: two novel mutations segregating with familial hidradenitis suppurativa (acne inversa) and acne conglobate",
+"authors": "U Ratnamala, D Jhala, NK Jain, NM Saiyed, M Raveendrababu, MV Rao, ...",
+"venue": "Exp Dermatol 25 (4), 314-316",
+"year": 2016,
+"citations": 40,
+"lab": false
+},
+{
+"title": "Association-heterogeneity mapping identifies an Asian-specific association of the GTF2I locus with rheumatoid arthritis",
+"authors": "K Kim, SY Bang, K Ikari, DH Yoo, SK Cho, CB Choi, YK Sung, TH Kim, ...",
+"venue": "Scientific reports 6 (1), 27563",
+"year": 2016,
+"citations": 31,
+"lab": false
+},
+{
+"title": "Novel identified associations of RGS1 and RASGRP1 variants in IgA Nephropathy",
+"authors": "XJ Zhou, SK Nath, YY Qi, C Sun, P Hou, YM Zhang, JC Lv, SF Shi, LJ Liu, ...",
+"venue": "Scientific reports 6 (1), 35781",
+"year": 2016,
+"citations": 26,
+"lab": false
+},
+{
+"title": "GWAS in an Amerindian ancestry population reveals novel systemic lupus erythematosus risk loci and the role of European admixture",
+"authors": "ME Alarcón-Riquelme, JT Ziegler, J Molineros, TD Howard, ...",
+"venue": "Arthritis & rheumatology (Hoboken, NJ) 68 (4), 932",
+"year": 2016,
+"citations": 15,
+"lab": false
+},
+{
+"title": "AB0107 Association Heterogeneity Mapping Identifies An Asian-Specific Association of The GTF2I Locus with Rheumatoid Arthritis",
+"authors": "K Kim, SY Bang, K Ikari, DH Yoo, SK Cho, CB Choi, YK Sung, TH Kim, ...",
+"venue": "Annals of the Rheumatic Diseases 75, 933",
+"year": 2016,
+"citations": 0,
+"lab": false
+},
+{
+"title": "High-density genotyping of immune loci in Koreans and Europeans identifies eight new rheumatoid arthritis risk loci",
+"authors": "K Kim, SY Bang, HS Lee, SK Cho, CB Choi, YK Sung, TH Kim, JB Jun, ...",
+"venue": "Annals of the rheumatic diseases 74 (3), e13-e13",
+"year": 2015,
+"citations": 151,
+"lab": false
+},
+{
+"title": "The IRF5–TNPO3 association with systemic lupus erythematosus has two components that other autoimmune disorders variably share",
+"authors": "LC Kottyan, EE Zoller, J Bene, X Lu, JA Kelly, AM Rupert, CJ Lessard, ...",
+"venue": "Human molecular genetics 24 (2), 582-596",
+"year": 2015,
+"citations": 103,
+"lab": false
+},
+{
+"title": "Lupus risk variant increases pSTAT1 binding and decreases ETS1 expression",
+"authors": "X Lu, EE Zoller, MT Weirauch, Z Wu, B Namjou, AH Williams, JT Ziegler, ...",
+"venue": "The American Journal of Human Genetics 96 (5), 731-739",
+"year": 2015,
+"citations": 51,
+"lab": false
+},
+{
+"title": "Lupus risk variants in the PXK locus alter B-cell receptor internalization",
+"authors": "SE Vaughn, C Foley, X Lu, ZH Patel, EE Zoller, AF Magnusen, ...",
+"venue": "Frontiers in genetics 5, 450",
+"year": 2015,
+"citations": 42,
+"lab": false
+},
+{
+"title": "An HLA-C amino-acid variant in addition to HLA-B* 27 confers risk for ankylosing spondylitis in the Korean population",
+"authors": "K Kim, SY Bang, S Lee, HS Lee, SC Shim, YM Kang, CH Suh, C Sun, ...",
+"venue": "Arthritis Research & Therapy 17 (1), 342",
+"year": 2015,
+"citations": 32,
+"lab": false
+},
+{
+"title": "Association of variants in CCR6 with susceptibility to lupus nephritis in Chinese.",
+"authors": "X Zhou, R Mu, C Li, SK Nath, Y Zhang, Y Qi, Z Li, M Zhao, H Zhang",
+"venue": "Arthritis & rheumatology 67 (11), 3091",
+"year": 2015,
+"citations": 16,
+"lab": false
+},
+{
+"title": "GDF15(MIC1) H6D Polymorphism Does Not Influence Cardiovascular Disease in a Latin American Population with Rheumatoid Arthritis",
+"authors": "J Amaya-Amaya, A Rojas-Villarraga, N Molano-Gonzalez, ...",
+"venue": "Journal of Immunology Research 2015 (1), 270763",
+"year": 2015,
+"citations": 12,
+"lab": false
+},
+{
+"title": "Variants in CCR6 are associated with susceptibility to lupus nephritis in Chinese",
+"authors": "X Zhou, R Mu, C Li, SK Nath, Y Zhang, Y Qi, Z Li, M Zhao, H Zhang",
+"venue": "Arthritis & rheumatology (Hoboken, NJ) 67 (11), 3091",
+"year": 2015,
+"citations": 1,
+"lab": false
+},
+{
+"title": "Utilization of a combined family-based/case-control cohort for the ImmunoChip identifies SLE loci not previously seen in standard case-control studies",
+"authors": "JA Kelly, KL Sivils, SK Nath, CD Langefeld, EK Wakeland, PM Gaffney",
+"venue": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 33 (3), S21-S21",
+"year": 2015,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Regulatory haplotypes in HLA-D modulate transcription of multiple genes in the antigen presentation pathway and potentiate systemic autoimmunity",
+"authors": "DR Karp, P Raj, E Rai, R Song, BE Wakeland, K Viswanathan, C Arana, ...",
+"venue": "CLINICAL AND EXPERIMENTAL RHEUMATOLOGY 33 (3), S18-S18",
+"year": 2015,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Research Article GDF15 (MIC1) H6D Polymorphism Does Not Influence Cardiovascular Disease in a Latin American Population with Rheumatoid Arthritis",
+"authors": "J Amaya-Amaya, A Rojas-Villarraga, N Molano-Gonzalez, ...",
+"venue": "",
+"year": 2015,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Oxidative stress and its biomarkers in systemic lupus erythematosus",
+"authors": "D Shah, N Mahajan, S Sah, SK Nath, B Paudyal",
+"venue": "Journal of biomedical science 21 (1), 23",
+"year": 2014,
+"citations": 293,
+"lab": false
+},
+{
+"title": "Allelic heterogeneity in NCF2 associated with systemic lupus erythematosus (SLE) susceptibility across four ethnic populations",
+"authors": "X Kim-Howard, C Sun, JE Molineros, AK Maiti, H Chandru, A Adler, ...",
+"venue": "Human molecular genetics 23 (6), 1656-1668",
+"year": 2014,
+"citations": 89,
+"lab": false
+},
+{
+"title": "Two functional lupus-associated BLK promoter variants control cell-type-and developmental-stage-specific transcription",
+"authors": "JM Guthridge, R Lu, H Sun, C Sun, GB Wiley, N Dominguez, ...",
+"venue": "The American Journal of Human Genetics 94 (4), 586-598",
+"year": 2014,
+"citations": 82,
+"lab": false
+},
+{
+"title": "Brief Report: Identification of MTMR3 as a Novel Susceptibility Gene for Lupus Nephritis in Northern Han Chinese by Shared‐Gene Analysis With IgA Nephropathy",
+"authors": "X Zhou, SK Nath, Y Qi, F Cheng, H Yang, Y Zhang, W Yang, J Ma, M Zhao, ...",
+"venue": "Arthritis & rheumatology 66 (10), 2842-2848",
+"year": 2014,
+"citations": 56,
+"lab": false
+},
+{
+"title": "Combined protein- and nucleic acid-level effects of rs1143679 (R77H), a lupus-predisposing variant within ITGAM",
+"authors": "AK Maiti, X Kim-Howard, P Motghare, V Pradhan, KH Chua, C Sun, ...",
+"venue": "Human molecular genetics 23 (15), 4161-4176",
+"year": 2014,
+"citations": 40,
+"lab": false
+},
+{
+"title": "Evaluation of SLE susceptibility genes in Malaysians",
+"authors": "JE Molineros, KH Chua, C Sun, LH Lian, P Motghare, X Kim-Howard, ...",
+"venue": "Autoimmune Diseases 2014 (1), 305436",
+"year": 2014,
+"citations": 14,
+"lab": false
+},
+{
+"title": "Glutathione: a possible link to autophagy in systemic lupus erythematosus",
+"authors": "D Shah, SK Nath",
+"venue": "",
+"year": 2014,
+"citations": 3,
+"lab": true
+},
+{
+"title": "Identification of MTMR3 as a novel susceptibility gene for lupus nephritis in Northern Han Chinese by shared-gene analysis with IgA nephropathy.",
+"authors": "ZXJ Zhou XuJie, SK Nath, QYY Qi YuanYuan, CFJ Cheng FaJuan, ...",
+"venue": "",
+"year": 2014,
+"citations": 0,
+"lab": false
+},
+{
+"title": "The APOL1 Gene Is Not Associated with Lupus Nephritis in Individuals with Enriched Amerindian Ancestry.: 2089",
+"authors": "J Molineros, H Ainsworth, R Kimberly, MA Petri, R Ramsey-Goldman, ...",
+"venue": "Arthritis & Rheumatology 66, S915",
+"year": 2014,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Identifying Novel Lupus Severity Risk Variants through Identification of Alleles with High Ethnic Variability Worldwide.: 2841",
+"authors": "BA Waltman, KE Taylor, J Molineros, S French, J Nitiham, J Kelly, A Adler, ...",
+"venue": "Arthritis & Rheumatology 66, S1242",
+"year": 2014,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Admixture mapping in lupus identifies multiple functional variants within IFIH1 associated with apoptosis, inflammation, and autoantibody production",
+"authors": "JE Molineros, AK Maiti, C Sun, LL Looger, S Han, X Kim-Howard, S Glenn, ...",
+"venue": "PLoS genetics 9 (2), e1003222",
+"year": 2013,
+"citations": 142,
+"lab": false
+},
+{
+"title": "Integrin CD11b negatively regulates BCR signalling to maintain autoreactive B cell tolerance",
+"authors": "C Ding, Y Ma, X Chen, M Liu, Y Cai, X Hu, D Xiang, S Nath, H Zhang, ...",
+"venue": "Nature communications 4 (1), 2813",
+"year": 2013,
+"citations": 97,
+"lab": false
+},
+{
+"title": "Interaction between glutathione and apoptosis in systemic lupus erythematosus",
+"authors": "D Shah, S Sah, SK Nath",
+"venue": "Autoimmunity reviews 12 (7), 741-751",
+"year": 2013,
+"citations": 86,
+"lab": true
+},
+{
+"title": "PTPN22 association in systemic lupus erythematosus (SLE) with respect to individual ancestry and clinical sub-phenotypes",
+"authors": "B Namjou, X Kim-Howard, C Sun, A Adler, SA Chung, KM Kaufman, ...",
+"venue": "PloS one 8 (8), e69404",
+"year": 2013,
+"citations": 76,
+"lab": false
+},
+{
+"title": "Trans-Ancestral Studies Fine Map the SLE-Susceptibility Locus TNFSF4",
+"authors": "H Manku, CD Langefeld, SG Guerra, TH Malik, M Alarcon-Riquelme, ...",
+"venue": "PLoS genetics 9 (7), e1003554",
+"year": 2013,
+"citations": 69,
+"lab": false
+},
+{
+"title": "Gene network analysis of small molecules with autoimmune disease associated genes predicts a novel strategy for drug efficacy",
+"authors": "AK Maiti, SK Nath",
+"venue": "Autoimmunity reviews 12 (4), 510-522",
+"year": 2013,
+"citations": 8,
+"lab": true
+},
+{
+"title": "Gene–gene interaction of BLK, TNFSF4, TRAF1, TNFAIP3, and REL in systemic lupus erythematosus",
+"authors": "X Zhou, X Lu, SK Nath, J Lv, S Zhu, H Yang, L Qin, M Zhao, Y Su, ...",
+"venue": "Arthritis & Rheumatism 64 (1), 222-231",
+"year": 2012,
+"citations": 104,
+"lab": false
+},
+{
+"title": "Variation in the ICAM1–ICAM4–ICAM5 locus is associated with systemic lupus erythematosus susceptibility in multiple ancestries",
+"authors": "K Kim, EE Brown, CB Choi, ME Alarcón-Riquelme, JA Kelly, SB Glenn, ...",
+"venue": "Annals of the rheumatic diseases 71 (11), 1809-1814",
+"year": 2012,
+"citations": 80,
+"lab": false
+},
+{
+"title": "Evaluation of genetic association between an ITGAM non-synonymous SNP (rs1143679) and multiple autoimmune diseases",
+"authors": "JM Anaya, X Kim-Howard, S Prahalad, A Cherñavsky, C Cañas, ...",
+"venue": "Autoimmunity reviews 11 (4), 276-280",
+"year": 2012,
+"citations": 76,
+"lab": false
+},
+{
+"title": "Right hemicolectomy is not routinely indicated in pseudomyxoma peritonei",
+"authors": "JM Foster, PK Gupta, JH Carreau, TE Grotz, JV Blas, Z Gatalica, S Nath, ...",
+"venue": "The American Surgeon 78 (2), 171-177",
+"year": 2012,
+"citations": 61,
+"lab": false
+},
+{
+"title": "Multiple autoantibodies display association with lymphopenia, proteinuria, and cellular casts in a large, ethnically diverse SLE patient cohort",
+"authors": "R Lu, JM Robertson, BF Bruner, JM Guthridge, BR Neas, SK Nath, ...",
+"venue": "Autoimmune diseases 2012 (1), 819634",
+"year": 2012,
+"citations": 43,
+"lab": false
+},
+{
+"title": "Novel homozygous, heterozygous and hemizygous FRMD7 gene mutations segregated in the same consanguineous family with congenital X-linked nystagmus",
+"authors": "U Radhakrishna, U Ratnamala, S Deutsch, L Bartoloni, MR Kuracha, ...",
+"venue": "European journal of human genetics 20 (10), 1032-1036",
+"year": 2012,
+"citations": 26,
+"lab": false
+},
+{
+"title": "Genome-wide linkage and copy number variation analysis reveals 710 kb duplication on chromosome 1p31. 3 responsible for autosomal dominant omphalocele",
+"authors": "U Radhakrishna, SK Nath, K McElreavey, U Ratnamala, C Sun, AK Maiti, ...",
+"venue": "Journal of medical genetics 49 (4), 270-276",
+"year": 2012,
+"citations": 12,
+"lab": false
+},
+{
+"title": "Genome-wide Linkage Study Of High-grade Myopia In Indian Families Reveal Polygenic Threshold Model Of Inheritance",
+"authors": "S Chettiar, SK Nath, MR Kuracha, R Singh, U Ratnamala, ...",
+"venue": "Investigative Ophthalmology & Visual Science 53 (14), 4442-4442",
+"year": 2012,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Early disease onset is predicted by a higher genetic risk for lupus and is associated with a more severe phenotype in lupus patients",
+"authors": "R Webb, JA Kelly, EC Somers, T Hughes, KM Kaufman, E Sanchez, ...",
+"venue": "Annals of the rheumatic diseases 70 (1), 151-156",
+"year": 2011,
+"citations": 229,
+"lab": false
+},
+{
+"title": "Fine‐mapping and transethnic genotyping establish IL2/IL21 genetic association with lupus and localize this genetic effect to IL21",
+"authors": "T Hughes, X Kim‐Howard, JA Kelly, KM Kaufman, CD Langefeld, ...",
+"venue": "Arthritis & Rheumatism 63 (6), 1689-1697",
+"year": 2011,
+"citations": 77,
+"lab": false
+},
+{
+"title": "Evaluation of 19 autoimmune disease-associated loci with rheumatoid arthritis in a Colombian population: evidence for replication and gene-gene interaction",
+"authors": "HA Deshmukh, AK Maiti, XR Kim-Howard, A Rojas-Villarraga, ...",
+"venue": "The Journal of rheumatology 38 (9), 1866-1870",
+"year": 2011,
+"citations": 51,
+"lab": false
+},
+{
+"title": "Refinement of the X-linked nonsyndromic high-grade myopia locus MYP1 on Xq28 and exclusion of 13 known positional candidate genes by direct sequencing",
+"authors": "U Ratnamala, R Lyle, R Rawal, R Singh, S Vishnupriya, P Himabindu, ...",
+"venue": "Investigative ophthalmology & visual science 52 (9), 6814-6819",
+"year": 2011,
+"citations": 39,
+"lab": false
+},
+{
+"title": "Identification of novel suggestive loci for high-grade myopia in Polish families",
+"authors": "M Rydzanicz, SK Nath, C Sun, M Podfigurna-Musielak, A Frajdenberg, ...",
+"venue": "Molecular Vision 17, 2028",
+"year": 2011,
+"citations": 16,
+"lab": false
+},
+{
+"title": "Genome-Wide Association Study in Asian Populations Identifies Variants in ETS1 and WDFY4 Associated with Systemic Lupus Erythematosus",
+"authors": "W Yang, N Shen, DQ Ye, Q Liu, Y Zhang, XX Qian, N Hirankarn, D Ying, ...",
+"venue": "PLoS genetics 6 (2), e1000841",
+"year": 2010,
+"citations": 488,
+"lab": false
+},
+{
+"title": "Confirmation of an association between rs6822844 at the Il2–Il21 region and multiple autoimmune diseases: Evidence of a general susceptibility locus",
+"authors": "AK Maiti, X Kim‐Howard, P Viswanathan, L Guillén, A Rojas‐Villarraga, ...",
+"venue": "Arthritis & Rheumatism: Official Journal of the American College of …",
+"year": 2010,
+"citations": 116,
+"lab": false
+},
+{
+"title": "ITGAM coding variant (rs1143679) influences the risk of renal disease, discoid rash and immunological manifestations in patients with systemic lupus erythematosus with European …",
+"authors": "X Kim-Howard, AK Maiti, JM Anaya, GR Bruner, E Brown, JT Merrill, ...",
+"venue": "Annals of the rheumatic diseases 69 (7), 1329-1332",
+"year": 2010,
+"citations": 106,
+"lab": false
+},
+{
+"title": "Non-synonymous variant (Gly307Ser) in CD226 is associated with susceptibility to multiple autoimmune diseases",
+"authors": "AK Maiti, X Kim-Howard, P Viswanathan, L Guillen, X Qian, ...",
+"venue": "Rheumatology 49 (7), 1239-1244",
+"year": 2010,
+"citations": 90,
+"lab": false
+},
+{
+"title": "Hidradenitis suppurativa (or acne inversa) with autosomal dominant inheritance is not linked to chromosome 1p21. 1‐1q25. 3 region",
+"authors": "FM Saleh Al‐Ali, U Ratnamala, TY Mehta, M Naveed, MT Al‐Ali, ...",
+"venue": "Experimental dermatology 19 (9), 851-853",
+"year": 2010,
+"citations": 60,
+"lab": false
+},
+{
+"title": "Clinical implications of novel activating EGFR mutations in malignant peritoneal mesothelioma",
+"authors": "JM Foster, U Radhakrishna, V Govindarajan, JH Carreau, Z Gatalica, ...",
+"venue": "World journal of surgical oncology 8 (1), 88",
+"year": 2010,
+"citations": 56,
+"lab": false
+},
+{
+"title": "Replication of Association Between a Common Variant Near Melanocortin‐4 Receptor Gene and Obesity‐related Traits in Asian Sikhs",
+"authors": "LF Been, SK Nath, SK Ralhan, GS Wander, NK Mehra, J Singh, ...",
+"venue": "Obesity 18 (2), 425-429",
+"year": 2010,
+"citations": 48,
+"lab": false
+},
+{
+"title": "Genome-wide association scan of Dupuytren's disease",
+"authors": "PDJO Ojwang, PDI Adrianto, PDC Gray-McGuire, PDSK Nath, MSC Sun, ...",
+"venue": "The Journal of hand surgery 35 (12), 2039-2045",
+"year": 2010,
+"citations": 44,
+"lab": false
+},
+{
+"title": "Influencia del polimorfismo MIC-1 en la presencia de enfermedad cardiovascular en pacientes con artritis reumatoide",
+"authors": "A Rojas Villarraga, P Viswanathan, S Nath, JM Anaya",
+"venue": "Iatreia 23 (4-S), S-105",
+"year": 2010,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Genetic associations of LYN with systemic lupus erythematosus (vol 10, pg 397, 2009)",
+"authors": "R Lu, GS Vidal, JA Kelly, AM Delgado-Vega, XK Howard, SR Macwana, ...",
+"venue": "GENES AND IMMUNITY 11 (1), 98-98",
+"year": 2010,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Deep Resequencing of SLE Susceptibility Loci in a Population of SLE Patients",
+"authors": "E Wakeland, E Rai, B Wakeland, C Liang, N Olsen, D Karp, J Kelly, ...",
+"venue": "Clinical Immunology 135, S10",
+"year": 2010,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Erratum: Genetic associations of LYN with systemic lupus erythematosus (Genes and Immunity (2009) 10 (397-403",
+"authors": "R Lu, GS Vidal, JA Kelly, AM Delgado-Vega, XK Howard, SR MacWana, ...",
+"venue": "Genes and immunity 11 (1), 98",
+"year": 2010,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Localization of a gene for keratoconus to a 5.6-Mb interval on 13q32",
+"authors": "M Gajecka, U Radhakrishna, D Winters, SK Nath, M Rydzanicz, ...",
+"venue": "Investigative ophthalmology & visual science 50 (4), 1531-1539",
+"year": 2009,
+"citations": 148,
+"lab": false
+},
+{
+"title": "A polymorphism within IL21R confers risk for systemic lupus erythematosus",
+"authors": "R Webb, JT Merrill, JA Kelly, A Sestak, KM Kaufman, CD Langefeld, ...",
+"venue": "Arthritis & Rheumatism: Official Journal of the American College of …",
+"year": 2009,
+"citations": 143,
+"lab": false
+},
+{
+"title": "Genetic associations of LYN with systemic lupus erythematosus",
+"authors": "R Lu, GS Vidal, JA Kelly, AM Delgado-Vega, XK Howard, SR Macwana, ...",
+"venue": "Genes & Immunity 10 (5), 397-403",
+"year": 2009,
+"citations": 139,
+"lab": false
+},
+{
+"title": "Evaluation of imputation-based association in and around the integrin-α-M (ITGAM) gene and replication of robust association between a non-synonymous functional variant …",
+"authors": "S Han, X Kim-Howard, H Deshmukh, Y Kamatani, P Viswanathan, ...",
+"venue": "Human molecular genetics 18 (6), 1171-1180",
+"year": 2009,
+"citations": 134,
+"lab": false
+},
+{
+"title": "High‐density genotyping of STAT4 reveals multiple haplotypic associations with systemic lupus erythematosus in different racial groups",
+"authors": "B Namjou, AL Sestak, DL Armstrong, R Zidovetzki, JA Kelly, N Jacob, ...",
+"venue": "Arthritis & Rheumatism: Official Journal of the American College of …",
+"year": 2009,
+"citations": 115,
+"lab": false
+},
+{
+"title": "Replication of the BANK1 genetic association with systemic lupus erythematosus in a European-derived population",
+"authors": "L Guo, H Deshmukh, R Lu, GS Vidal, JA Kelly, KM Kaufman, ...",
+"venue": "Genes & Immunity 10 (5), 531-538",
+"year": 2009,
+"citations": 62,
+"lab": false
+},
+{
+"title": "Admixture in Hispanic Americans: its impact on ITGAM association and implications for admixture mapping in SLE",
+"authors": "JE Molineros, X Kim-Howard, H Deshmukh, CO Jacob, JB Harley, ...",
+"venue": "Genes & Immunity 10 (5), 539-545",
+"year": 2009,
+"citations": 26,
+"lab": false
+},
+{
+"title": "Replication of recently identified associated single-nucleotide polymorphisms from six autoimmune diseases in Genetic Analysis Workshop 16 rheumatoid arthritis data",
+"authors": "H Deshmukh, X Kim-Howard, SK Nath",
+"venue": "BMC proceedings 3 (Suppl 7), S31",
+"year": 2009,
+"citations": 10,
+"lab": true
+},
+{
+"title": "Predictive value of novel and existing activating EGFR mutations for improved survival in malignant peritoneal mesothelioma (MPM) and response to EGFR-TK inhibitors (EGFR-TKI)",
+"authors": "JM Foster, R Uppala, V Govindarajan, JH Carreau, L Stan, S Nath, ...",
+"venue": "Journal of Clinical Oncology 27 (15_suppl), 11030-11030",
+"year": 2009,
+"citations": 0,
+"lab": false
+},
+{
+"title": "A Novel Mutation of the FRMD7 Gene in an Indian Family with X-linked Congenital Nystagmus",
+"authors": "B Chhunchha, R Singh, RV Mandava, SK Nath, U Ratnamala, ...",
+"venue": "Investigative Ophthalmology & Visual Science 50 (13), 2839-2839",
+"year": 2009,
+"citations": 0,
+"lab": false
+},
+{
+"title": "C8orf13/BLK association with systemic lupus erythematosus across different ethnicities (136.28)",
+"authors": "R Lu, N Dominguez, C Lessard, H Deshmukh, G Vidal, S Macwana, ...",
+"venue": "The Journal of Immunology 182 (Supplement_1), 136.28-136.28",
+"year": 2009,
+"citations": 0,
+"lab": false
+},
+{
+"title": "A polymorphism within interleukin-21 receptor (IL21R) confers risk for systemic lupus erythematosus and is associated with malar rash in lupus patients (49.17)",
+"authors": "A Sawalha, R Webb, J Merrill, J Kelly, A Sestak, K Kaufman, C Langefeld, ...",
+"venue": "The Journal of Immunology 182 (Supplement_1), 49.17-49.17",
+"year": 2009,
+"citations": 0,
+"lab": false
+},
+{
+"title": "F. 30. Admixture in Hispanic-Americans: Its impact on ITGAM-SLE Association and Implications for Admixture mapping in SLE",
+"authors": "S Nath, J Molineros, X Kim, H Deshmukh, C Jacob, J Harley",
+"venue": "Clinical Immunology 131, S102",
+"year": 2009,
+"citations": 0,
+"lab": true
+},
+{
+"title": "F. 20. Delineating SLE Susceptibility Polymorphisms at the OX40L Locus",
+"authors": "H Manku, DC Graham, R Graham, J Edberg, R Kimberly, SC Bae, ...",
+"venue": "Clinical Immunology 131, S99",
+"year": 2009,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Genome-wide association scan in women with systemic lupus erythematosus identifies susceptibility variants in ITGAM, PXK, KIAA1542 and other loci",
+"authors": "International Consortium for Systemic Lupus Erythematosus Genetics (SLEGEN)",
+"venue": "Nature genetics 40 (2), 204-210",
+"year": 2008,
+"citations": 1567,
+"lab": false
+},
+{
+"title": "A nonsynonymous functional variant in integrin-αM (encoded by ITGAM) is associated with systemic lupus erythematosus",
+"authors": "SK Nath, S Han, X Kim-Howard, JA Kelly, P Viswanathan, GS Gilkeson, ...",
+"venue": "Nature genetics 40 (2), 152-154",
+"year": 2008,
+"citations": 390,
+"lab": true
+},
+{
+"title": "Impact of nine common type 2 diabetes risk polymorphisms in Asian Indian Sikhs: PPARG2 (Pro12Ala), IGF2BP2, TCF7L2 and FTOvariants confer a significant risk",
+"authors": "DK Sanghera, L Ortega, S Han, J Singh, SK Ralhan, GS Wander, ...",
+"venue": "BMC medical genetics 9 (1), 59",
+"year": 2008,
+"citations": 358,
+"lab": false
+},
+{
+"title": "Common variants within MECP2 confer risk of systemic lupus erythematosus",
+"authors": "AH Sawalha, R Webb, S Han, JA Kelly, KM Kaufman, RP Kimberly, ...",
+"venue": "PloS one 3 (3), e1727",
+"year": 2008,
+"citations": 174,
+"lab": false
+},
+{
+"title": "Osteopontin and systemic lupus erythematosus association: a probable gene-gender interaction",
+"authors": "S Han, JM Guthridge, ITW Harley, AL Sestak, X Kim-Howard, ...",
+"venue": "PloS one 3 (3), e0001757",
+"year": 2008,
+"citations": 100,
+"lab": false
+},
+{
+"title": "TCF7L2 Polymorphisms are Associated with Type 2 Diabetes in Khatri Sikhs from North India: Genetic Variation Affects Lipid Levels",
+"authors": "DK Sanghera, SK Nath, L Ortega, M Gambarelli, X Kim‐Howard, JR Singh, ...",
+"venue": "Annals of human genetics 72 (4), 499-509",
+"year": 2008,
+"citations": 97,
+"lab": false
+},
+{
+"title": "Detection of catalase as a major protein target of the lipid peroxidation product 4-HNE and the lack of its genetic association as a risk factor in SLE",
+"authors": "A D'souza, BT Kurien, R Rodgers, J Shenoi, S Kurono, H Matsumoto, ...",
+"venue": "BMC Medical Genetics 9 (1), 62",
+"year": 2008,
+"citations": 82,
+"lab": false
+},
+{
+"title": "Patients with familial and sporadic onset SLE have similar clinical profiles but vary profoundly by race",
+"authors": "AL Sestak, SK Nath, JA Kelly, GR Bruner, JA James, JB Harley",
+"venue": "Lupus 17 (11), 1004-1009",
+"year": 2008,
+"citations": 31,
+"lab": false
+},
+{
+"title": "Genetic association of C8orf13/BLK locus in systemic lupus erythematosus",
+"authors": "JM Guthridge, BL Cobb, RR Graham, KM Kaufman, JA Kelly, CJ Lessard, ...",
+"venue": "ARTHRITIS AND RHEUMATISM 58 (9), S448-S448",
+"year": 2008,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Genetic association of the X-chromosome gene MECP2 with systemic lupus erythematosus",
+"authors": "AH Sawalha, R Webb, S Han, JA Kelly, KM Kaufman, RP Kimberl, ...",
+"venue": "ARTHRITIS AND RHEUMATISM 58 (9), S219-S219",
+"year": 2008,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Confirmation of the genetic association of BANKI with systemic lupus erythematosus",
+"authors": "JM Guthridge, L Guo, S Han, JA Kelly, KM Kaufman, CD Langefeld, ...",
+"venue": "ARTHRITIS AND RHEUMATISM 58 (9), S220-S220",
+"year": 2008,
+"citations": 0,
+"lab": false
+},
+{
+"title": "The PTPN22 C1858T functional polymorphism and autoimmune diseases—a meta-analysis",
+"authors": "YH Lee, YH Rho, SJ Choi, JD Ji, GG Song, SK Nath, JB Harley",
+"venue": "Rheumatology 46 (1), 49-56",
+"year": 2007,
+"citations": 421,
+"lab": false
+},
+{
+"title": "Current status of lupus genetics",
+"authors": "AL Sestak, SK Nath, AH Sawalha, JB Harley",
+"venue": "Arthritis research & therapy 9 (3), 210",
+"year": 2007,
+"citations": 105,
+"lab": false
+},
+{
+"title": "Genomewide linkage scan for Split–hand/foot malformation with long-bone deficiency in a large Arab family identifies two novel susceptibility loci on chromosomes 1q42. 2-q43 …",
+"authors": "M Naveed, SK Nath, M Gaines, MT Al-Ali, N Al-Khaja, D Hutchings, ...",
+"venue": "The American Journal of Human Genetics 80 (1), 105-111",
+"year": 2007,
+"citations": 43,
+"lab": false
+},
+{
+"title": "APRIL polymorphism and systemic lupus erythematosus (SLE) susceptibility",
+"authors": "YH Lee, F Ota, X Kim-Howard, KM Kaufman, SK Nath",
+"venue": "Rheumatology 46 (8), 1274-1276",
+"year": 2007,
+"citations": 40,
+"lab": true
+},
+{
+"title": "Autosomal dominant nonsyndromic cleft lip and palate: significant evidence of linkage at 18q21. 1",
+"authors": "S Beiraghi, SK Nath, M Gaines, DD Mandhyan, D Hutchings, ...",
+"venue": "The American Journal of Human Genetics 81 (1), 180-188",
+"year": 2007,
+"citations": 31,
+"lab": false
+},
+{
+"title": "A genome-wide ordered-subset linkage analysis for rheumatoid arthritis",
+"authors": "DD Mandhyan, X Kim-Howard, M Gaines, SK Nath",
+"venue": "BMC proceedings 1 (Suppl 1), S101",
+"year": 2007,
+"citations": 3,
+"lab": true
+},
+{
+"title": "Two new PPAR gamma gene variants confer risk to type 2 diabetes in Khatri Sikhs from India: The Sikh Diabetes Study SDS",
+"authors": "DK Sanghera, J Figgins, SK Nath, M Gains, J Singh, SK Ralhan, ...",
+"venue": "GENETIC EPIDEMIOLOGY 31 (6), 623-624",
+"year": 2007,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Meta-analysis of TNF-α promoter− 308 A/G polymorphism and SLE susceptibility",
+"authors": "YH Lee, JB Harley, SK Nath",
+"venue": "European Journal of Human Genetics 14 (3), 364-371",
+"year": 2006,
+"citations": 239,
+"lab": true
+},
+{
+"title": "Genomewide scan for nonsyndromic cleft lip and palate in multigenerational Indian families reveals significant evidence of linkage at 13q33. 1-34",
+"authors": "U Radhakrishna, U Ratnamala, M Gaines, S Beiraghi, D Hutchings, ...",
+"venue": "The American Journal of Human Genetics 79 (3), 580-585",
+"year": 2006,
+"citations": 57,
+"lab": false
+},
+{
+"title": "Split‐hand/split‐foot malformation 3 (SHFM3) at 10q24, development of rapid diagnostic methods and gene expression from the region",
+"authors": "R Lyle, U Radhakrishna, JL Blouin, S Gagos, DB Everman, C Gehrig, ...",
+"venue": "American Journal of Medical Genetics Part A 140 (13), 1384-1395",
+"year": 2006,
+"citations": 56,
+"lab": false
+},
+{
+"title": "Ectrodactyly with aplasia of long bones (OMIM; 119100) in a large inbred Arab family with an apparent autosomal dominant inheritance and reduced penetrance: clinical and …",
+"authors": "M Naveed, MT Al‐Ali, SK Murthy, S Al‐Hajali, N Al‐Khaja, S Deutsch, ...",
+"venue": "American Journal of Medical Genetics Part A 140 (13), 1440-1446",
+"year": 2006,
+"citations": 24,
+"lab": false
+},
+{
+"title": "Genetic analysis of three large Indian pedigrees with autosomal dominant hidradenitis suppurativa",
+"authors": "U Radhakrishna, TY Mehta, JV Solanki, SK Nath",
+"venue": "Experimental Dermatology 15 (6), 479-479",
+"year": 2006,
+"citations": 1,
+"lab": true
+},
+{
+"title": "The PTPN22 C1858T polymorphism and risk of autoimmune diseases: A meta-analysis.",
+"authors": "YH Lee, YH Rho, SJ Choi, JD Ji, GG Song, GG Song, SK Nath, JB Harley",
+"venue": "ARTHRITIS AND RHEUMATISM 54 (9), S396-S396",
+"year": 2006,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Congenital Nystagmus: Exclusion of Linkage With Markers on Chromosomes 6p12, 7p11, and 13q31–q33 in a Large Indian Family",
+"authors": "SK Nath, R Singh, R Meda, RM Memon, R Uppala",
+"venue": "Investigative Ophthalmology & Visual Science 47 (13), 2507-2507",
+"year": 2006,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Polymorphisms of complement receptor 1 and interleukin-10 genes and systemic lupus erythematosus: a meta-analysis",
+"authors": "SK Nath, JB Harley, YH Lee",
+"venue": "Human genetics 118 (2), 225-234",
+"year": 2005,
+"citations": 174,
+"lab": true
+},
+{
+"title": "CTLA-4 polymorphisms and systemic lupus erythematosus (SLE): a meta-analysis",
+"authors": "YH Lee, JB Harley, SK Nath",
+"venue": "Human genetics 116 (5), 361-367",
+"year": 2005,
+"citations": 170,
+"lab": true
+},
+{
+"title": "Systemic lupus erythematosus susceptibility loci defined by genome scan meta-analysis",
+"authors": "YH Lee, SK Nath",
+"venue": "Human genetics 118 (3), 434-443",
+"year": 2005,
+"citations": 129,
+"lab": true
+},
+{
+"title": "Linkage at 5q14. 3–15 in multiplex systemic lupus erythematosus pedigrees stratified by autoimmune thyroid disease",
+"authors": "B Namjou, JA Kelly, J Kilpatrick, KM Kaufman, SK Nath, RH Scofield, ...",
+"venue": "Arthritis & Rheumatism 52 (11), 3646-3650",
+"year": 2005,
+"citations": 49,
+"lab": false
+},
+{
+"title": "Genetics of systemic lupus erythematosus: how far have we come?",
+"authors": "AL Sestak, SK Nath, JB Harley",
+"venue": "Rheumatic Disease Clinics 31 (2), 223-244",
+"year": 2005,
+"citations": 35,
+"lab": false
+},
+{
+"title": "Genética del lupus eritematoso sistémico:¿ cuánto hemos avanzado?",
+"authors": "AL Sestak, SK Nath, JB Harley",
+"venue": "Rheumatic disease clinics of North America, 191-208",
+"year": 2005,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Genetics of human systemic lupus erythematosus: the emerging picture",
+"authors": "SK Nath, J Kilpatrick, JB Harley",
+"venue": "Current opinion in immunology 16 (6), 794-800",
+"year": 2004,
+"citations": 223,
+"lab": true
+},
+{
+"title": "Linkage at 12q24 with systemic lupus erythematosus (SLE) is established and confirmed in Hispanic and European American families",
+"authors": "SK Nath, AI Quintero-Del-Rio, J Kilpatrick, L Feo, M Ballesteros, JB Harley",
+"venue": "The American Journal of Human Genetics 74 (1), 73-82",
+"year": 2004,
+"citations": 84,
+"lab": true
+},
+{
+"title": "Systemic lupus erythematosus (SLE) and chromosome 16: confirmation of linkage to 16q12–13 and evidence for genetic heterogeneity",
+"authors": "SK Nath, B Namjou, D Hutchings, CP Garriott, C Pongratz, J Guthridge, ...",
+"venue": "European journal of human genetics 12 (8), 668-672",
+"year": 2004,
+"citations": 32,
+"lab": true
+},
+{
+"title": "A candidate region on 11p13 for systemic lupus erythematosus: a linkage identified in African-American families",
+"authors": "SK Nath, B Namjou, J Kilpatrick, CP Garriott, GR Bruner, RH Scofield, ...",
+"venue": "Journal of Investigative Dermatology Symposium Proceedings 9 (1), 64-67",
+"year": 2004,
+"citations": 31,
+"lab": true
+},
+{
+"title": "Genetic admixture of European FRDA genes is the cause of Friedreich ataxia in the Mexican population",
+"authors": "M Gómez, RM Clark, SK Nath, S Bhatti, R Sharma, E Alonso, ...",
+"venue": "Genomics 84 (5), 779-784",
+"year": 2004,
+"citations": 24,
+"lab": false
+},
+{
+"title": "Linkage analysis of SLE susceptibility: confirmation of SLER1 at 5p15. 3",
+"authors": "SK Nath, B Namjou, CP Garriott, S Frank, PA Joslin, J Kilpatrick, JA Kelly, ...",
+"venue": "Genes & Immunity 5 (3), 209-214",
+"year": 2004,
+"citations": 15,
+"lab": true
+},
+{
+"title": "Mapping the Systemic Lupus Erythematosus Susceptibility Genes",
+"authors": "SK Nath, JA Kelly, JB Harley, RH Scofield",
+"venue": "Autoimmunity: Methods and Protocols, 11-29",
+"year": 2004,
+"citations": 12,
+"lab": true
+},
+{
+"title": "Genetic linkage between antiphospholipid antibodies (aPL) and 17p13 in a multiplex cohort of APL-positive families.",
+"authors": "SK Nath, K Obrien, G Bruner, JB Harley, JT Merrill",
+"venue": "ARTHRITIS AND RHEUMATISM 50 (9), S606-S607",
+"year": 2004,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Thrombocytopenia identifies a severe familial phenotype of systemic lupus erythematosus and reveals genetic linkages at 1q22 and 11p13",
+"authors": "RH Scofield, GR Bruner, JA Kelly, J Kilpatrick, D Bacino, SK Nath, ...",
+"venue": "Blood, The Journal of the American Society of Hematology 101 (3), 992-997",
+"year": 2003,
+"citations": 91,
+"lab": false
+},
+{
+"title": "Identification and confirmation of SLE susceptibility locus (SLEB4) at 12q24.",
+"authors": "SK Nath, AI Quintero-Del-Rio, J Kilpatrick, JB Harley",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 73 (5), 168-168",
+"year": 2003,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Genome scan stratified by the presence of anti-double-stranded DNA (dsDNA) autoantibody in pedigrees multiplex for systemic lupus erythematosus (SLE) establishes linkages at …",
+"authors": "B Namjou, SK Nath, J Kilpatrick, JA Kelly, J Reid, M Reichlin, JA James, ...",
+"venue": "Genes & Immunity 3 (1), S35-S41",
+"year": 2002,
+"citations": 52,
+"lab": false
+},
+{
+"title": "Evidence for a susceptibility gene (SLEH1) on chromosome 11q14 for systemic lupus erythematosus (SLE) families with hemolytic anemia",
+"authors": "JA Kelly, K Thompson, J Kilpatrick, T Lam, SK Nath, C Gray-McGuire, ...",
+"venue": "Proceedings of the National Academy of Sciences 99 (18), 11766-11771",
+"year": 2002,
+"citations": 51,
+"lab": false
+},
+{
+"title": "Stratification of pedigrees multiplex for systemic lupus erythematosus and for self‐reported rheumatoid arthritis detects a systemic lupus erythematosus susceptibility gene …",
+"authors": "B Namjou, SK Nath, J Kilpatrick, JA Kelly, J Reid, JA James, JB Harley",
+"venue": "Arthritis & Rheumatism: Official Journal of the American College of …",
+"year": 2002,
+"citations": 39,
+"lab": false
+},
+{
+"title": "SLEB3 in systemic lupus erythematosus (SLE) is strongly related to SLE families ascertained through neuropsychiatric manifestations",
+"authors": "SK Nath, JA Kelly, J Reid, T Lam, C Gray-McGuire, B Namjou, CE Aston, ...",
+"venue": "Human genetics 111 (1), 54-58",
+"year": 2002,
+"citations": 35,
+"lab": true
+},
+{
+"title": "Genetic linkage of systemic lupus erythematosus with chromosome 11q14 (SLEH1) in African-American families stratified by a nucleolar antinuclear antibody pattern",
+"authors": "AH Sawalha, B Namjou, SK Nath, J Kilpatrick, A Germundson, JA Kelly, ...",
+"venue": "Genes & Immunity 3 (1), S31-S34",
+"year": 2002,
+"citations": 29,
+"lab": false
+},
+{
+"title": "Segregation analysis of blood pressure and body mass index in a rural US community",
+"authors": "SK Nath, A Chakravarti, CH Chen, R Cooper, A Weder, NJ Schork",
+"venue": "Human Biology 74 (1), 11-23",
+"year": 2002,
+"citations": 12,
+"lab": true
+},
+{
+"title": "Combined genome scan results for 266 pedigrees multiplex for systemic lupus erythematosus (SLE): significant evidence of genetic linkage at 1q22-23 and 11p13.",
+"authors": "JA Kelly, J Reid, J Kilpatrick, B Harris, CK Berry-Brattan, S Frank, ...",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 71 (4), 439-439",
+"year": 2002,
+"citations": 1,
+"lab": false
+},
+{
+"title": "Low frequency of Friedreich ataxia in the Mexican Mestizo population.",
+"authors": "M Gomez, S Nath, S Bhatti, A Rasmussen, SI Bidichandani",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 71 (4), 369-369",
+"year": 2002,
+"citations": 0,
+"lab": false
+},
+{
+"title": "A novel susceptibility gene for systemic lupus erythematosus (SLE), SLER1, maps to chromosome 5p15. 3 in multiplex SLE families overlapped with rheumatoid arthritis.",
+"authors": "SK Nath, B Namjou, J Kilpatrick, JA Kelly, JA James, JB Harley",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 71 (4), 440-440",
+"year": 2002,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Evidence for a susceptibility gene, SLEV1, on chromosome 17p13 in families with vitiligo-related systemic lupus erythematosus",
+"authors": "SK Nath, JA Kelly, B Namjou, T Lam, GR Bruner, RH Scofield, CE Aston, ...",
+"venue": "The American Journal of Human Genetics 69 (6), 1401-1406",
+"year": 2001,
+"citations": 168,
+"lab": true
+},
+{
+"title": "Comparison of three methods for obtaining principal components from family data in genetic analysis of complex disease",
+"authors": "KL Moser, CM Jedrey, D Conti, JH Schick, C Gray-McGuire, SK Nath, ...",
+"venue": "Genetic Epidemiology 21 (S1), S726-S731",
+"year": 2001,
+"citations": 10,
+"lab": false
+},
+{
+"title": "Two‐Trait‐Locus Linkage Analyses of Asthma Susceptibility",
+"authors": "SK Nath, CH Chen, NJ Schork",
+"venue": "Genetic Epidemiology 21 (S1), S278-S283",
+"year": 2001,
+"citations": 2,
+"lab": true
+},
+{
+"title": "Linkage at 1q22-23 associated with oral and nasopharingeal ulcers in systemic lupus erythematosus.",
+"authors": "AI Quintero-Del-Rio, S Nath, J Kilpatrick, J Kelly, KK Kaufmann, ...",
+"venue": "Arthritis and Rheumatism 44 (9), S248-S248",
+"year": 2001,
+"citations": 1,
+"lab": false
+},
+{
+"title": "Systemic lupus erythematosus and vitiligo: share common gene (s)!",
+"authors": "SK Nath, J Kelly, B Namjou, G Bruner, RH Scofield, CE Aston, JB Harley",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 69 (4), 199-199",
+"year": 2001,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Pedigree selection may increase genetic homogeneity in complex phenotypes: an example from lupus with hemolytic anemia.",
+"authors": "J Kelly, J Kilpatrick, SK Nath, B Namjou-Khales, GR Bruner, RH Scofield, ...",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 69 (4), 509-509",
+"year": 2001,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Linkages associated with thrombocytopenia in pedigrees multiplex for lupus are potentially related to lupus morbidity and mortality.",
+"authors": "GR Bruner, RH Scofield, JA Kelly, J Kilpatrick, DK Klein, SK Nath, T Lam, ...",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 69 (4), 199-199",
+"year": 2001,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Hemolytic anemia in pedigrees multiplex for lupus: Improving power by increasing genetic homogeneity.",
+"authors": "GR Bruner, J Kelly, J Kilpatrick, SK Nath, B Namjou-Khales, RH Scofield, ...",
+"venue": "ARTHRITIS AND RHEUMATISM 44 (9), S393-S393",
+"year": 2001,
+"citations": 0,
+"lab": false
+},
+{
+"title": "The genetic interplay between arthritis and systemic lupus erythematosus (SLE) suggests a susceptibility gene at 5p15. 3.",
+"authors": "B Namjou, SK Nath, J Kilpatrick, J Kelly, JB Harley",
+"venue": "ARTHRITIS AND RHEUMATISM 44 (9), S269-S269",
+"year": 2001,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Thrombocytopenia and the genetics of morbidity and mortality in lupus.",
+"authors": "RH Scofield, GR Bruner, J Kelly, D Klein, SK Nath, JA James, JB Harley",
+"venue": "ARTHRITIS AND RHEUMATISM 44 (9), S248-S248",
+"year": 2001,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Linkage disequilibrium analysis of biallelic DNA markers, human quantitative trait loci, and threshold-defined case and control subjects",
+"authors": "NJ Schork, SK Nath, D Fallin, A Chakravarti",
+"venue": "The American Journal of Human Genetics 67 (5), 1208-1218",
+"year": 2000,
+"citations": 107,
+"lab": false
+},
+{
+"title": "Familial aggregation and segregation analysis of some blood pressure related phenotypes in a rural US Caucasian community.",
+"authors": "SK Nath, A Chakravarti, R Cooper, A Weder, NJ Schork",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 67 (4), 215-215",
+"year": 2000,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Comparing linkage disequilibrium strength within and between population and genomic regions.",
+"authors": "SK Nath, M Blumenfeld, I Chumakov, L Bougeleret, A Cohen, L Essioux, ...",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 65 (4), A392-A392",
+"year": 1999,
+"citations": 1,
+"lab": true
+},
+{
+"title": "Schizophrenia susceptibility loci on chromosomes 13q32 and 8p21",
+"authors": "JL Blouin, BA Dombroski, SK Nath, VK Lasseter, PS Wolyniec, G Nestadt, ...",
+"venue": "Nature genetics 20 (1), 70-73",
+"year": 1998,
+"citations": 668,
+"lab": false
+},
+{
+"title": "A potential Schizophrenia susceptibility locus on chromosome 13q",
+"authors": "JL Blouin, P Wolyniec, S Nath, VK Lasseter, C Gehrig, U Radhakrishna, ...",
+"venue": "EUROPEAN JOURNAL OF HUMAN GENETICS 6, 34-34",
+"year": 1998,
+"citations": 0,
+"lab": false
+},
+{
+"title": "A susceptibility locus for schizophrenia on chromosome 8p.",
+"authors": "BA Dombroski, CC Ton, S Nath, A Chakravarti, VK Lasseter, SE Snyder, ...",
+"venue": "AMERICAN JOURNAL OF MEDICAL GENETICS 74 (6), 668-668",
+"year": 1997,
+"citations": 4,
+"lab": false
+},
+{
+"title": "Genetic modelling of complex human disorders",
+"authors": "SK Nath, PP Majumder",
+"venue": "Current Science, 940-948",
+"year": 1997,
+"citations": 0,
+"lab": true
+},
+{
+"title": "A genome search for schizophrenia susceptibility loci: sib-pair sharing of alleles on chromosome 5q22-5q31 in 54 pedigrees.",
+"authors": "AE Pulver, SE Antonarakis, JL Blouin, C Gehrig, U Radhakvishna, ...",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 61 (4), A291-A291",
+"year": 1997,
+"citations": 0,
+"lab": false
+},
+{
+"title": "The Assessment of sibling relationship",
+"authors": "SK Nath, A Chakravarti",
+"venue": "AMERICAN JOURNAL OF HUMAN GENETICS 61 (4), A287-A287",
+"year": 1997,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Pedigree analysis of vitiligo: further support for multilocus involvement",
+"authors": "SK Nath, JJ Nordlund, PP Majumder",
+"venue": "Journal of Genetics 74 (1), 41-46",
+"year": 1995,
+"citations": 2,
+"lab": true
+},
+{
+"title": "Genetic epidemiology of vitiligo: multilocus recessivity cross-validated",
+"authors": "SK Nath, PP Majumder, JJ Nordlund",
+"venue": "American journal of human genetics 55 (5), 981",
+"year": 1994,
+"citations": 264,
+"lab": true
+},
+{
+"title": "Genetic epidemilogical analysis of complex disorders",
+"authors": "S Nath",
+"venue": "PQDT-Global",
+"year": 1994,
+"citations": 0,
+"lab": true
+},
+{
+"title": "Pattern of familial aggregation of vitiligo",
+"authors": "PP Majumder, JJ Nordlund, SK Nath",
+"venue": "Archives of dermatology 129 (8), 994-998",
+"year": 1993,
+"citations": 270,
+"lab": true
+},
+{
+"title": "Statistical analysis of family data on complex disorders in man",
+"authors": "PP Majumder, SK Nath",
+"venue": "Journal of Genetics 71 (3), 89-103",
+"year": 1992,
+"citations": 4,
+"lab": true
+},
+{
+"title": "Rh segregation distortion: an artifact of ascertainment bias?",
+"authors": "SK Nath, PP Majumder, S Sarkar",
+"venue": "American journal of human genetics 50 (6), 1328",
+"year": 1992,
+"citations": 2,
+"lab": true
+},
+{
+"title": "Reactive Oxygen Species",
+"authors": "A Aggarwal, N Mahajan, MA Syed, B Paudyal, SK Nath, D Shah",
+"venue": "Reactive Oxygen Species in Biology and Human Health, 371",
+"year": null,
+"citations": 2,
+"lab": false
+},
+{
+"title": "ARTICLE Lupus Risk Variant Increases pSTAT1 Binding and Decreases ETS1 Expression",
+"authors": "X Lu, EE Zoller, MT Weirauch, Z Wu, B Namjou, AH Williams, JT Ziegler, ...",
+"venue": "",
+"year": null,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Impact of Common Type 2 Diabetes Risk Polymorphisms in Asian Indian Sikhs: Gene-Gene Interaction May Improve Risk Prediction",
+"authors": "DK Sanghera, L Ortega, S Han, JR Singh, SK Ralhan, GS Wander, ...",
+"venue": "",
+"year": null,
+"citations": 0,
+"lab": false
+},
+{
+"title": "Systemic Lupus Erythematosus: Genetic and Epigenetic View",
+"authors": "SK Nath, AH Sawalha",
+"venue": "eLS",
+"year": null,
+"citations": 0,
+"lab": true
+}
+]

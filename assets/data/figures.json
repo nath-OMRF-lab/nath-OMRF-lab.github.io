@@ -1,0 +1,346 @@
+[
+ {
+  "article": "2013_Molineros_PLoSGenet_IFIH1",
+  "figure": 1,
+  "continued": false,
+  "file": "2013_Molineros_PLoSGenet_IFIH1/fig1.webp",
+  "page": 3,
+  "title": "Study design"
+ },
+ {
+  "article": "2013_Molineros_PLoSGenet_IFIH1",
+  "figure": 2,
+  "continued": false,
+  "file": "2013_Molineros_PLoSGenet_IFIH1/fig2.webp",
+  "page": 4,
+  "title": "Admixture mapping and conditional analysis"
+ },
+ {
+  "article": "2013_Molineros_PLoSGenet_IFIH1",
+  "figure": 3,
+  "continued": false,
+  "file": "2013_Molineros_PLoSGenet_IFIH1/fig3.webp",
+  "page": 7,
+  "title": "Apoptosis and expression assays for exonic SNPs"
+ },
+ {
+  "article": "2013_Molineros_PLoSGenet_IFIH1",
+  "figure": 4,
+  "continued": false,
+  "file": "2013_Molineros_PLoSGenet_IFIH1/fig4.webp",
+  "page": 8,
+  "title": "Binding assay for rs13023380 and molecular model of IFIH1"
+ },
+ {
+  "article": "2013_Molineros_PLoSGenet_IFIH1",
+  "figure": 5,
+  "continued": false,
+  "file": "2013_Molineros_PLoSGenet_IFIH1/fig5.webp",
+  "page": 9,
+  "title": "Three risk variants of IFIH1 and the proposed functional model"
+ },
+ {
+  "article": "2017_Langefeld_NatCommun_Transancestral",
+  "figure": 1,
+  "continued": false,
+  "file": "2017_Langefeld_NatCommun_Transancestral/fig1.webp",
+  "page": 3,
+  "title": "Genome-wide associations in SLE. Manhattan plots for (a) European ancestry, (b) African American, (c) Hispanic ancestry, and the (d) meta-analysis"
+ },
+ {
+  "article": "2017_Langefeld_NatCommun_Transancestral",
+  "figure": 2,
+  "continued": false,
+  "file": "2017_Langefeld_NatCommun_Transancestral/fig2.webp",
+  "page": 9,
+  "title": "HLA SNP associations with and without adjustment of classical HLA alleles"
+ },
+ {
+  "article": "2017_Langefeld_NatCommun_Transancestral",
+  "figure": 3,
+  "continued": false,
+  "file": "2017_Langefeld_NatCommun_Transancestral/fig3.webp",
+  "page": 10,
+  "title": "Clustering of HLA Class II alleles by amino acid sequence similarity"
+ },
+ {
+  "article": "2017_Langefeld_NatCommun_Transancestral",
+  "figure": 4,
+  "continued": false,
+  "file": "2017_Langefeld_NatCommun_Transancestral/fig4.webp",
+  "page": 13,
+  "title": "Ancestral landscape of SLE risk alleles"
+ },
+ {
+  "article": "2017_Langefeld_NatCommun_Transancestral",
+  "figure": 5,
+  "continued": false,
+  "file": "2017_Langefeld_NatCommun_Transancestral/fig5.webp",
+  "page": 14,
+  "title": "The non-additive effect of EA risk-allele genetic load on SLE risk"
+ },
+ {
+  "article": "2019_Molineros_FrontImmunol_RASGRP1",
+  "figure": 1,
+  "continued": false,
+  "file": "2019_Molineros_FrontImmunol_RASGRP1/fig1.webp",
+  "page": 4,
+  "title": "Framework of study design"
+ },
+ {
+  "article": "2019_Molineros_FrontImmunol_RASGRP1",
+  "figure": 2,
+  "continued": false,
+  "file": "2019_Molineros_FrontImmunol_RASGRP1/fig2.webp",
+  "page": 7,
+  "title": "Meta-analysis in the RASGRP1 region"
+ },
+ {
+  "article": "2019_Molineros_FrontImmunol_RASGRP1",
+  "figure": 3,
+  "continued": false,
+  "file": "2019_Molineros_FrontImmunol_RASGRP1/fig3.webp",
+  "page": 10,
+  "title": "Luciferase reporter assay for rs7170151, rs11631591-rs7173565 and rs9920715"
+ },
+ {
+  "article": "2019_Molineros_FrontImmunol_RASGRP1",
+  "figure": 4,
+  "continued": false,
+  "file": "2019_Molineros_FrontImmunol_RASGRP1/fig4.webp",
+  "page": 11,
+  "title": "(A) ChIP-qPCR of sequences containing SNPs rs11631591-rs7173565, rs7170151 or rs9920715 in Jurkat cells"
+ },
+ {
+  "article": "2019_Molineros_FrontImmunol_RASGRP1",
+  "figure": 5,
+  "continued": false,
+  "file": "2019_Molineros_FrontImmunol_RASGRP1/fig5.webp",
+  "page": 12,
+  "title": "Downregulation of hnRNP-K by 5-FU treatment"
+ },
+ {
+  "article": "2019_Molineros_FrontImmunol_RASGRP1",
+  "figure": 6,
+  "continued": false,
+  "file": "2019_Molineros_FrontImmunol_RASGRP1/fig6.webp",
+  "page": 13,
+  "title": "(A) RasGRP1 reduction influences the phosphorylation of ERK. 5-FU treatment reduces hnRNP-K and RasGRP1 expression levels in Jurkat and healthy human CD3+ T cells"
+ },
+ {
+  "article": "2019_Molineros_PLoSGenet_HLA",
+  "figure": 1,
+  "continued": false,
+  "file": "2019_Molineros_PLoSGenet_HLA/fig1.webp",
+  "page": 4,
+  "title": "Association of SNPs (black), amino-acids (AA; red), and classical alleles (blue)"
+ },
+ {
+  "article": "2019_Molineros_PLoSGenet_HLA",
+  "figure": 2,
+  "continued": false,
+  "file": "2019_Molineros_PLoSGenet_HLA/fig2.webp",
+  "page": 5,
+  "title": "Accumulation of risk residues"
+ },
+ {
+  "article": "2022_Elghzaly_FrontGenet_EgyptianGWAS",
+  "figure": 1,
+  "continued": false,
+  "file": "2022_Elghzaly_FrontGenet_EgyptianGWAS/fig1.webp",
+  "page": 3,
+  "title": "Overview and study design"
+ },
+ {
+  "article": "2022_Elghzaly_FrontGenet_EgyptianGWAS",
+  "figure": 2,
+  "continued": false,
+  "file": "2022_Elghzaly_FrontGenet_EgyptianGWAS/fig2.webp",
+  "page": 6,
+  "title": "Manhattan plot for imputation-based association with individual ancestry correction (green, black, and red gene names represent known, novel suggestive, and novel genome-wide significant loci, respectively)"
+ },
+ {
+  "article": "2022_Elghzaly_FrontGenet_EgyptianGWAS",
+  "figure": 3,
+  "continued": false,
+  "file": "2022_Elghzaly_FrontGenet_EgyptianGWAS/fig3.webp",
+  "page": 8,
+  "title": "(A–I)"
+ },
+ {
+  "article": "2022_Elghzaly_FrontGenet_EgyptianGWAS",
+  "figure": 4,
+  "continued": false,
+  "file": "2022_Elghzaly_FrontGenet_EgyptianGWAS/fig4.webp",
+  "page": 13,
+  "title": "Comparison of MAFs for the associated SNPs from our Egyptian controls and 1,000 Genomes data"
+ },
+ {
+  "article": "2022_Elghzaly_FrontGenet_EgyptianGWAS",
+  "figure": 5,
+  "continued": false,
+  "file": "2022_Elghzaly_FrontGenet_EgyptianGWAS/fig5.webp",
+  "page": 14,
+  "title": "(A,B)"
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 1,
+  "continued": false,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig1.webp",
+  "page": 3,
+  "title": "Chromatin interaction analysis using PCHiC showing the interacting region containing rs2272165 and promoters of neighboring target genes including DGOUK in GM12878 (B-lymphocytes) and monocytes"
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 2,
+  "continued": false,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig2.webp",
+  "page": 6,
+  "title": "Ethnicity-specific meta-analysis, conditional analysis, and bioinformatics"
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 3,
+  "continued": false,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig3.webp",
+  "page": 8,
+  "title": "Immune cell type-specific eQTL analysis of the influence of rs6705628 (A) and rs2272165 (B) on target gene DGUOK (the only target gene) using transcriptome data from Asian samples"
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 4,
+  "continued": false,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig4.webp",
+  "page": 9,
+  "title": "Allele-specific promoter and enhancer activity of the two SNPs, using luciferase reporter assays across (A) HEK293 (embryonic kidney cells), (B) U937 (monocyte), and (C) LCL GM18572 (B-lymphocytes)"
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 5,
+  "continued": false,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig5.webp",
+  "page": 10,
+  "title": "Allele-specific ChIP-qPCR of sequences containing SNPs (A) rs6705628 and (B) rs2272165 with histone marks and binding proteins (x-axis) using risk (GM18572) and non-risk (GM18553) LCL lines"
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 6,
+  "continued": true,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig6_part1.webp",
+  "page": 10,
+  "title": ""
+ },
+ {
+  "article": "2022_FazelNajafabadi_Genes_2p13",
+  "figure": 6,
+  "continued": false,
+  "file": "2022_FazelNajafabadi_Genes_2p13/fig6.webp",
+  "page": 11,
+  "title": "Western blot analysis of DGUOK protein in two risk (R1-GM18555, R2-GM18572) and two non-risk (NR1-GM18553, NR2-GM18561) genotype-specific LCLs (B-lymphoblastoid cells)"
+ },
+ {
+  "article": "2023_Singh_FrontLupus_SLC15A4",
+  "figure": 1,
+  "continued": false,
+  "file": "2023_Singh_FrontLupus_SLC15A4/fig1.webp",
+  "page": 4,
+  "title": "Bioinformatics"
+ },
+ {
+  "article": "2023_Singh_FrontLupus_SLC15A4",
+  "figure": 2,
+  "continued": false,
+  "file": "2023_Singh_FrontLupus_SLC15A4/fig2.webp",
+  "page": 5,
+  "title": "Allelic-specific regulatory effects of the rs35907548 enhancer"
+ },
+ {
+  "article": "2023_Singh_FrontLupus_SLC15A4",
+  "figure": 3,
+  "continued": false,
+  "file": "2023_Singh_FrontLupus_SLC15A4/fig3.webp",
+  "page": 5,
+  "title": "3C interaction analysis"
+ },
+ {
+  "article": "2023_Singh_FrontLupus_SLC15A4",
+  "figure": 4,
+  "continued": false,
+  "file": "2023_Singh_FrontLupus_SLC15A4/fig4.webp",
+  "page": 6,
+  "title": "CRISPR/Cas9-based enhancer deletion"
+ },
+ {
+  "article": "2023_Singh_FrontLupus_SLC15A4",
+  "figure": 5,
+  "continued": false,
+  "file": "2023_Singh_FrontLupus_SLC15A4/fig5.webp",
+  "page": 7,
+  "title": "Comparing the endolysosomal acidification between WT and KO cells"
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 1,
+  "continued": false,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig1.webp",
+  "page": 4,
+  "title": "Allele-specific activity of rs17673553"
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 2,
+  "continued": true,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig2_part1.webp",
+  "page": 5,
+  "title": ""
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 2,
+  "continued": false,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig2.webp",
+  "page": 6,
+  "title": "siRNA-based GATA3 knockdown"
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 3,
+  "continued": true,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig3_part1.webp",
+  "page": 6,
+  "title": ""
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 3,
+  "continued": false,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig3.webp",
+  "page": 7,
+  "title": "siRNA-based STAT3-knockdown"
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 4,
+  "continued": false,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig4.webp",
+  "page": 8,
+  "title": "CRISPR-based epigenetic modification"
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 5,
+  "continued": false,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig5.webp",
+  "page": 9,
+  "title": "CRISPR knockout of CLEC16A. (A) A 183bp sequence surrounding rs17673553 was knocked out using CRISPR-Cas9"
+ },
+ {
+  "article": "2025_Rallabandi_IJMS_CLEC16A",
+  "figure": 6,
+  "continued": false,
+  "file": "2025_Rallabandi_IJMS_CLEC16A/fig6.webp",
+  "page": 11,
+  "title": "(A)"
+ }
+]
