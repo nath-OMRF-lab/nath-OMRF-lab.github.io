@@ -212,14 +212,69 @@
     });
   }
 
-  /* ---------- latest publications on home page ---------- */
-  const latest = document.getElementById("latest-pubs");
-  if (latest) {
-    fetch("assets/data/publications.json").then((r) => r.json()).then((pubs) => {
-      latest.innerHTML = pubs.filter((p) => p.year).slice(0, 5).map((p) => `
-        <li><b>${esc(p.title)}</b><small>${esc(p.venue || "")}${p.venue ? " · " : ""}${p.year}</small></li>`).join("");
-    });
+  /* ---------- team as a planetary system (home page) ---------- */
+  const sys = document.getElementById("orbit-system");
+  const info = document.getElementById("orbit-info");
+  if (sys && info) {
+    fetch("assets/data/team.json").then((r) => r.json()).then((team) => {
+      const face = (m, cls) => m.photo
+        ? `<img class="${cls}" src="${m.photo}" alt="">`
+        : `<div class="${cls} initials" aria-hidden="true">${esc(m.initials || "")}</div>`;
+      function show(m, btn) {
+        info.innerHTML = `${face(m, "oi-photo")}<h3>${esc(m.name)}</h3>
+          <p class="oi-role">${esc(m.role)}</p><p>${esc(m.blurb)}</p>`;
+        sys.querySelectorAll(".planet").forEach((p) => p.classList.toggle("active", p === btn));
+      }
+      function planet(m, cls) {
+        const b = document.createElement("button");
+        b.type = "button"; b.className = "planet " + cls;
+        b.setAttribute("aria-label", `${m.name}, ${m.role}`);
+        b.innerHTML = face(m, "") + `<span class="planet-label">${esc(m.name.replace(/,? Ph\.D\./, ""))}</span>`;
+        b.addEventListener("mouseenter", () => show(m, b));
+        b.addEventListener("focus", () => show(m, b));
+        b.addEventListener("click", () => { show(m, b); pinned = b; });
+        sys.appendChild(b);
+        return b;
+      }
+      let pinned = null, hovering = false;
+      const sun = planet(team.pi, "sun");
+      show(team.pi, sun);
+      // orbit radii (fraction of system width), sizes and speeds (rad/s); inner orbit moves faster
+      const rings = [{ r: 0.31, size: "15%", speed: 0.09 }, { r: 0.455, size: "13%", speed: 0.055 }];
+      const bodies = [];
+      team.orbits.forEach((members, ri) => {
+        members.forEach((m, i) => {
+          const el = planet(m, "");
+          el.style.setProperty("--size", rings[ri].size);
+          bodies.push({ el, ring: rings[ri], a0: (i / members.length) * Math.PI * 2 + ri * 0.6 });
+        });
+      });
+      sys.addEventListener("mouseenter", () => { hovering = true; });
+      sys.addEventListener("mouseleave", () => { hovering = false; });
+      sys.addEventListener("focusin", () => { hovering = true; });
+      sys.addEventListener("focusout", () => { hovering = false; });
+      document.addEventListener("click", (e) => { if (!sys.contains(e.target)) pinned = null; });
+
+      const still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      let t = 0, last = null;
+      function place() {
+        bodies.forEach((b) => {
+          const a = b.a0 + t * b.ring.speed;
+          b.el.style.left = (50 + Math.cos(a) * b.ring.r * 100) + "%";
+          b.el.style.top = (50 + Math.sin(a) * b.ring.r * 100) + "%";
+        });
+      }
+      function frame(now) {
+        if (last !== null && !hovering && !pinned) t += Math.min(0.05, (now - last) / 1000);
+        last = now; place();
+        requestAnimationFrame(frame);
+      }
+      place();
+      if (!still) requestAnimationFrame(frame);
+    }).catch(() => { sys.parentElement.style.display = "none"; });
   }
+
+  /* latest publications on the home page are written into index.html by build_site_assets.py */
 
   /* year in footer */
   document.querySelectorAll("[data-year]").forEach((n) => { n.textContent = new Date().getFullYear(); });

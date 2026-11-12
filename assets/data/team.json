@@ -1,0 +1,50 @@
+{
+  "pi": {
+    "name": "Swapan K. Nath, Ph.D.",
+    "role": "Principal Investigator",
+    "photo": "assets/img/team/swapan-nath.jpg",
+    "blurb": "Professor in OMRF's Arthritis & Clinical Immunology Research Program and holder of the William H. & Rita Bell Chair. His group has helped map lupus genes including ITGAM, CDKN1B, NCF2 and KLF2, and now studies how the risk variants work."
+  },
+  "orbits": [
+    [
+      {
+        "name": "Lily Wong, Ph.D.",
+        "role": "Staff Scientist",
+        "photo": "assets/img/team/lily-wong.jpg",
+        "blurb": "Staff Scientist working on the lab's lupus genetics projects."
+      },
+      {
+        "name": "Manish Kumar Singh, Ph.D.",
+        "role": "Associate Staff Scientist",
+        "photo": "assets/img/team/manish-kumar-singh.jpg",
+        "blurb": "First author of the lab's studies of lupus enhancer variants in SLC15A4 (2023) and KLF2 (2024), and co-author of the CLEC16A and 2p13.1 studies."
+      },
+      {
+        "name": "Muhammad Adeel, Ph.D.",
+        "role": "Assistant Staff Scientist",
+        "photo": "assets/img/team/muhammad-adeel.jpg",
+        "blurb": "Assistant Staff Scientist working on the lab's lupus genetics projects."
+      }
+    ],
+    [
+      {
+        "name": "Alsamman M. Alsamman, Ph.D.",
+        "role": "Assistant Staff Scientist",
+        "photo": "assets/img/team/alsamman-alsamman.jpg",
+        "blurb": "Assistant Staff Scientist working on the lab's lupus genetics projects."
+      },
+      {
+        "name": "Khushbu Raval",
+        "role": "Research Technician II",
+        "photo": "assets/img/team/khushbu-raval.jpg",
+        "blurb": "Research Technician supporting the lab's experimental work."
+      },
+      {
+        "name": "Louise Williamson",
+        "role": "Finance & Administrative Specialist",
+        "photo": "assets/img/team/louise-williamson.jpg",
+        "blurb": "Looks after the lab's finances and administration."
+      }
+    ]
+  ]
+}
