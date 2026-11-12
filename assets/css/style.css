@@ -494,3 +494,5 @@ section { padding: 80px 0; }
   .viz-canvas { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .viz-canvas svg { min-width: 760px; }
 }
+
+.loci-home { padding-top: 0; }

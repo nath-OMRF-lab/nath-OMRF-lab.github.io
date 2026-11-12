@@ -90,6 +90,46 @@
     </div>
   </section>
 
+  <section class="loci-section loci-home">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Lupus loci</span>
+        <h2>Twenty-five years of lupus genetics</h2>
+        <p>The regions and genes the lab has found or studied, from family linkage scans to variants tested with CRISPR. Choose a view.</p>
+      </div>
+      <div class="loci-stats" id="loci-stats"></div>
+
+      <div class="viz-tabs" role="tablist" aria-label="Choose a visualisation">
+        <button role="tab" aria-selected="true" data-view="timeline">Discovery timeline</button>
+        <button role="tab" aria-selected="false" data-view="ring">Genome ring</button>
+        <button role="tab" aria-selected="false" data-view="flow">From variant to biology</button>
+        <button role="tab" aria-selected="false" data-view="map">Populations</button>
+        <button role="tab" aria-selected="false" data-view="network">Gene network</button>
+      </div>
+
+      <div class="viz-stage">
+        <div class="viz-top">
+          <p class="viz-help" id="viz-help"></p>
+          <div class="viz-filters" aria-label="Show loci by the lab's role">
+            <button class="chip on" data-role="lab"><i></i>Nath lab led</button>
+            <button class="chip on" data-role="partner"><i></i>Co-led with partners</button>
+            <button class="chip on" data-role="collab"><i></i>Consortium co-author</button>
+          </div>
+        </div>
+        <div class="viz-body">
+          <div class="viz-canvas" id="viz-canvas"></div>
+          <aside class="viz-card" id="viz-card" aria-live="polite"></aside>
+        </div>
+        <div class="viz-controls" id="viz-controls"></div>
+      </div>
+      <div class="center mt-32"><a class="btn btn-outline" href="loci.html">Open the loci page and full table</a></div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-sankey/0.12.3/d3-sankey.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+    <script src="assets/js/loci.js"></script>
+  </section>
+
   <section class="section-alt">
     <div class="wrap">
       <div class="section-head">

@@ -38,6 +38,7 @@
   const CHR_NAME = (c) => (c === 23 ? "X" : String(c));
 
   let ALL = [], data = [], current = "timeline", cleanup = null;
+  const onLociPage = !!document.getElementById("loci-table"); // the home page embeds the same widget without the table
   const roles = new Set(["lab", "partner", "collab"]);
 
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -458,7 +459,8 @@
   /* ---------- table + stats ---------- */
   function table() {
     const rows = [...ALL].sort((a, b) => a.year - b.year || a.chr - b.chr);
-    document.getElementById("loci-table").innerHTML = `<thead><tr><th>Locus</th><th>Chr</th><th>Year</th><th>Found by</th><th>Variant</th><th>Biology</th><th>Populations</th><th>Lab role</th><th>Paper</th></tr></thead><tbody>` +
+    const tbl = document.getElementById("loci-table");
+    if (tbl) tbl.innerHTML = `<thead><tr><th>Locus</th><th>Chr</th><th>Year</th><th>Found by</th><th>Variant</th><th>Biology</th><th>Populations</th><th>Lab role</th><th>Paper</th></tr></thead><tbody>` +
       rows.map((d) => `<tr><td><b>${esc(d.label)}</b></td><td>${CHR_NAME(d.chr)}</td><td>${d.year}</td><td>${esc(d.method)}</td><td>${esc(d.variant)}</td><td>${esc(d.pathway)}</td><td>${d.ancestry.join(", ")}</td><td>${ROLE[d.role].label}</td><td><a href="${paperLink(d)}" target="_blank" rel="noopener">${d.doi ? "DOI" : "Search"}</a></td></tr>`).join("") + "</tbody>";
     const genes = ALL.filter((d) => !isRegion(d));
     const stat = (n, t) => `<div><b>${n}</b><span>${t}</span></div>`;
@@ -481,7 +483,7 @@
   document.querySelectorAll(".viz-tabs [data-view]").forEach((b) => b.addEventListener("click", () => {
     current = b.dataset.view;
     document.querySelectorAll(".viz-tabs [data-view]").forEach((x) => x.setAttribute("aria-selected", String(x === b)));
-    try { history.replaceState(null, "", "#" + current); } catch (e) { /* ignore */ }
+    if (onLociPage) { try { history.replaceState(null, "", "#" + current); } catch (e) { /* ignore */ } }
     render();
   }));
   document.querySelectorAll(".viz-filters [data-role]").forEach((b) => b.addEventListener("click", () => {
@@ -495,7 +497,7 @@
   fetch("assets/data/loci.json").then((r) => r.json()).then((rows) => {
     ALL = rows;
     const h = location.hash.slice(1);
-    if (VIEWS[h]) document.querySelector(`.viz-tabs [data-view="${h}"]`).click();
+    if (onLociPage && VIEWS[h]) document.querySelector(`.viz-tabs [data-view="${h}"]`).click();
     else render();
     table();
   }).catch(() => { canvas.innerHTML = '<p class="viz-error">The loci data could not be loaded.</p>'; });
