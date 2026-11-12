@@ -43,29 +43,11 @@
           <a class="btn btn-ghost" href="publications.html">Publications</a>
         </div>
       </div>
-      <svg class="butterfly" viewBox="0 0 400 340" role="img" aria-label="A butterfly, the symbol of lupus, drawn from genetic data points with a DNA double helix as its body">
-        <defs>
-          <path id="wing-ul" d="M196 150C180 95 120 30 62 34C22 37 14 82 34 118C56 156 120 170 196 162Z"/>
-          <path id="wing-ll" d="M196 170C140 172 84 196 80 240C77 282 120 300 150 278C176 258 192 214 196 178Z"/>
-          <clipPath id="wings-clip">
-            <use href="#wing-ul"/><use href="#wing-ll"/>
-            <use href="#wing-ul" transform="matrix(-1 0 0 1 400 0)"/><use href="#wing-ll" transform="matrix(-1 0 0 1 400 0)"/>
-          </clipPath>
-          <linearGradient id="wing-grad" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0" stop-color="#7b3fbf" stop-opacity=".6"/>
-            <stop offset="1" stop-color="#12a4a0" stop-opacity=".25"/>
-          </linearGradient>
-        </defs>
-        <g fill="url(#wing-grad)" stroke="#d6c2f2" stroke-opacity=".55" stroke-width="1.2">
-          <use href="#wing-ul"/><use href="#wing-ll"/>
-          <use href="#wing-ul" transform="matrix(-1 0 0 1 400 0)"/><use href="#wing-ll" transform="matrix(-1 0 0 1 400 0)"/>
-        </g>
-        <g id="wing-dots" clip-path="url(#wings-clip)"></g>
-        <g id="helix"></g>
-        <circle cx="200" cy="108" r="8" fill="#ffffff"/>
-        <path d="M197 101C190 80 178 64 160 56M203 101C210 80 222 64 240 56" fill="none" stroke="#d6c2f2" stroke-width="1.6" stroke-linecap="round"/>
-        <circle cx="160" cy="56" r="3" fill="#6fd8d2"/><circle cx="240" cy="56" r="3" fill="#6fd8d2"/>
-      </svg>
+      <div class="butterfly" role="img" aria-label="A butterfly, the symbol of lupus, with genetic data points on its wings and a DNA double helix as its body">
+        <img class="bf-wing bf-left" src="assets/img/butterfly-left.webp" alt="" width="720" height="591">
+        <img class="bf-wing bf-right" src="assets/img/butterfly-right.webp" alt="" width="720" height="591">
+        <img class="bf-body" src="assets/img/butterfly-body.webp" alt="" width="720" height="591">
+      </div>
     </div>
     <svg id="manhattan" class="manhattan" viewBox="0 0 1200 150" preserveAspectRatio="none" aria-hidden="true"></svg>
     <p class="manhattan-note">Illustrative Manhattan plot, labelled with lupus loci studied by the lab</p>
