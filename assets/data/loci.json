@@ -1,0 +1,1578 @@
+[
+ {
+  "label": "1q22-23",
+  "chr": 1,
+  "start": 154.0,
+  "end": 162.0,
+  "year": 2001,
+  "method": "Linkage",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE with oral ulcers",
+  "paper": "Linkage at 1q22-23 associated with oral and nasopharingeal ulcers in systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "SLEV1 (17p13)",
+  "chr": 17,
+  "start": 0.0,
+  "end": 10.0,
+  "year": 2001,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE with vitiligo",
+  "paper": "Evidence for a susceptibility gene, SLEV1, on chromosome 17p13 in families with vitiligo-related systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "SLEB3 (4p16)",
+  "chr": 4,
+  "start": 0.0,
+  "end": 11.0,
+  "year": 2002,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "Neuropsychiatric SLE",
+  "paper": "SLEB3 in systemic lupus erythematosus (SLE) is strongly related to SLE families ascertained through neuropsychiatric manifestations",
+  "doi": "10.1007/s00439-002-0743-1",
+  "study": ""
+ },
+ {
+  "label": "SLER1 (5p15.3)",
+  "chr": 5,
+  "start": 0.0,
+  "end": 8.0,
+  "year": 2002,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE with arthritis",
+  "paper": "A novel susceptibility gene for systemic lupus erythematosus (SLE), SLER1, maps to chromosome 5p15.3 in multiplex SLE families overlapped with rheumatoid arthritis",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "SLEH1 (11q14)",
+  "chr": 11,
+  "start": 77.0,
+  "end": 93.0,
+  "year": 2002,
+  "method": "Linkage",
+  "role": "collab",
+  "ancestry": [
+   "AA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE with hemolytic anemia",
+  "paper": "Evidence for a susceptibility gene (SLEH1) on chromosome 11q14 for systemic lupus erythematosus (SLE) families with hemolytic anemia",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "11p13",
+  "chr": 11,
+  "start": 31.0,
+  "end": 36.0,
+  "year": 2003,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "AA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE with thrombocytopenia",
+  "paper": "A candidate region on 11p13 for systemic lupus erythematosus: a linkage identified in African-American families",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "SLEB4 (12q24)",
+  "chr": 12,
+  "start": 110.0,
+  "end": 133.0,
+  "year": 2003,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "HA",
+   "EA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE",
+  "paper": "Identification and confirmation of SLE susceptibility locus (SLEB4) at 12q24",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "16q12-13",
+  "chr": 16,
+  "start": 47.0,
+  "end": 57.0,
+  "year": 2004,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE",
+  "paper": "Systemic lupus erythematosus (SLE) and chromosome 16: confirmation of linkage to 16q12–13 and evidence for genetic heterogeneity",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "4q32-34",
+  "chr": 4,
+  "start": 157.0,
+  "end": 178.0,
+  "year": 2005,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE",
+  "paper": "Systemic lupus erythematosus susceptibility loci defined by genome scan meta-analysis",
+  "doi": "10.1007/s00439-005-0073-1",
+  "study": ""
+ },
+ {
+  "label": "5q14.3-15",
+  "chr": 5,
+  "start": 85.0,
+  "end": 97.0,
+  "year": 2005,
+  "method": "Linkage",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE with thyroid disease",
+  "paper": "Linkage at 5q14.3–15 in multiplex systemic lupus erythematosus pedigrees stratified by autoimmune thyroid disease",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "HLA",
+  "chr": 6,
+  "start": 29.6,
+  "end": 33.4,
+  "year": 2005,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Antigen presentation",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "Amino acid signatures of HLA Class-I and II molecules are strongly associated with SLE susceptibility and autoantibody production in Eastern Asians",
+  "doi": "10.1371/journal.pgen.1008092",
+  "study": "2019_Molineros_PLoSGenet_HLA"
+ },
+ {
+  "label": "13q13-22",
+  "chr": 13,
+  "start": 36.0,
+  "end": 72.0,
+  "year": 2005,
+  "method": "Linkage",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA"
+  ],
+  "pathway": "Region (linkage)",
+  "variant": "Region only",
+  "disease": "SLE",
+  "paper": "Systemic lupus erythematosus susceptibility loci defined by genome scan meta-analysis",
+  "doi": "10.1007/s00439-005-0073-1",
+  "study": ""
+ },
+ {
+  "label": "PXK",
+  "chr": 3,
+  "start": 58.4,
+  "end": 58.4,
+  "year": 2008,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Genome-wide association scan in women with systemic lupus erythematosus identifies susceptibility variants in ITGAM, PXK, KIAA1542 and other loci",
+  "doi": "10.1038/ng.81",
+  "study": ""
+ },
+ {
+  "label": "BLK",
+  "chr": 8,
+  "start": 11.35,
+  "end": 11.35,
+  "year": 2008,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Promoter",
+  "disease": "SLE",
+  "paper": "Two functional lupus-associated BLK promoter variants control cell-type- and developmental-stage-specific transcription",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "KIAA1542",
+  "chr": 11,
+  "start": 0.6,
+  "end": 0.6,
+  "year": 2008,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Genome-wide association scan in women with systemic lupus erythematosus identifies susceptibility variants in ITGAM, PXK, KIAA1542 and other loci",
+  "doi": "10.1038/ng.81",
+  "study": ""
+ },
+ {
+  "label": "ITGAM",
+  "chr": 16,
+  "start": 31.3,
+  "end": 31.3,
+  "year": 2008,
+  "method": "Candidate gene",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS",
+   "IND"
+  ],
+  "pathway": "Immune complexes & phagocytes",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "A nonsynonymous functional variant in integrin-αM (encoded by ITGAM) is associated with systemic lupus erythematosus",
+  "doi": "10.1038/ng.71",
+  "study": ""
+ },
+ {
+  "label": "MECP2",
+  "chr": 23,
+  "start": 153.3,
+  "end": 153.3,
+  "year": 2008,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Common variants within MECP2 confer risk of systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "STAT4",
+  "chr": 2,
+  "start": 191.9,
+  "end": 191.9,
+  "year": 2009,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of STAT4 reveals multiple haplotypic associations with systemic lupus erythematosus in different racial groups",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "BANK1",
+  "chr": 4,
+  "start": 102.8,
+  "end": 102.8,
+  "year": 2009,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Replication of the BANK1 genetic association with systemic lupus erythematosus in a European-derived population",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "LYN",
+  "chr": 8,
+  "start": 56.8,
+  "end": 56.8,
+  "year": 2009,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Genetic associations of LYN with systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "IL21R",
+  "chr": 16,
+  "start": 27.4,
+  "end": 27.4,
+  "year": 2009,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "A polymorphism within IL21R confers risk for systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "WDFY4",
+  "chr": 10,
+  "start": 50.0,
+  "end": 50.0,
+  "year": 2010,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Genome-Wide Association Study in Asian Populations Identifies Variants in ETS1 and WDFY4 Associated with Systemic Lupus Erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "ETS1",
+  "chr": 11,
+  "start": 128.3,
+  "end": 128.3,
+  "year": 2010,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Genome-Wide Association Study in Asian Populations Identifies Variants in ETS1 and WDFY4 Associated with Systemic Lupus Erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "CD226",
+  "chr": 18,
+  "start": 67.5,
+  "end": 67.5,
+  "year": 2010,
+  "method": "Candidate gene",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS",
+   "IND"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "Non-synonymous variant (Gly307Ser) in CD226 is associated with susceptibility to multiple autoimmune diseases",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "IL21",
+  "chr": 4,
+  "start": 123.5,
+  "end": 123.5,
+  "year": 2011,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Fine-mapping and transethnic genotyping establish IL2/IL21 genetic association with lupus and localize this genetic effect to IL21",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "REL",
+  "chr": 2,
+  "start": 61.1,
+  "end": 61.1,
+  "year": 2012,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Gene–gene interaction of BLK, TNFSF4, TRAF1, TNFAIP3, and REL in systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "TNFAIP3",
+  "chr": 6,
+  "start": 138.2,
+  "end": 138.2,
+  "year": 2012,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Gene–gene interaction of BLK, TNFSF4, TRAF1, TNFAIP3, and REL in systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "TRAF1",
+  "chr": 9,
+  "start": 123.7,
+  "end": 123.7,
+  "year": 2012,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Gene–gene interaction of BLK, TNFSF4, TRAF1, TNFAIP3, and REL in systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "ICAM1-ICAM4-ICAM5",
+  "chr": 19,
+  "start": 10.4,
+  "end": 10.4,
+  "year": 2012,
+  "method": "Candidate gene",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Immune complexes & phagocytes",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Variation in the ICAM1–ICAM4–ICAM5 locus is associated with systemic lupus erythematosus susceptibility in multiple ancestries",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "PTPN22",
+  "chr": 1,
+  "start": 114.4,
+  "end": 114.4,
+  "year": 2013,
+  "method": "Candidate gene",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "PTPN22 association in systemic lupus erythematosus (SLE) with respect to individual ancestry and clinical sub-phenotypes",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "TNFSF4",
+  "chr": 1,
+  "start": 173.2,
+  "end": 173.2,
+  "year": 2013,
+  "method": "Fine-mapping",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Trans-Ancestral Studies Fine Map the SLE-Susceptibility Locus TNFSF4",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "IFIH1",
+  "chr": 2,
+  "start": 163.1,
+  "end": 163.1,
+  "year": 2013,
+  "method": "Admixture mapping",
+  "role": "lab",
+  "ancestry": [
+   "AA",
+   "EA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "Admixture mapping in lupus identifies multiple functional variants within IFIH1 associated with apoptosis, inflammation, and autoantibody production",
+  "doi": "10.1371/journal.pgen.1003222",
+  "study": "2013_Molineros_PLoSGenet_IFIH1"
+ },
+ {
+  "label": "NCF2",
+  "chr": 1,
+  "start": 183.5,
+  "end": 183.5,
+  "year": 2014,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Immune complexes & phagocytes",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "Allelic heterogeneity in NCF2 associated with systemic lupus erythematosus (SLE) susceptibility across four ethnic populations",
+  "doi": "10.1093/hmg/ddt532",
+  "study": ""
+ },
+ {
+  "label": "MTMR3",
+  "chr": 22,
+  "start": 30.3,
+  "end": 30.3,
+  "year": 2014,
+  "method": "GWAS",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Autophagy & lysosome",
+  "variant": "Not resolved",
+  "disease": "Lupus nephritis",
+  "paper": "Identification of MTMR3 as a Novel Susceptibility Gene for Lupus Nephritis in Northern Han Chinese by Shared-Gene Analysis With IgA Nephropathy",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "CCR6",
+  "chr": 6,
+  "start": 167.5,
+  "end": 167.5,
+  "year": 2015,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "Lupus nephritis",
+  "paper": "Variants in CCR6 are associated with susceptibility to lupus nephritis in Chinese",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "IRF5-TNPO3",
+  "chr": 7,
+  "start": 128.6,
+  "end": 128.6,
+  "year": 2015,
+  "method": "Fine-mapping",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "The IRF5–TNPO3 association with systemic lupus erythematosus has two components that other autoimmune disorders variably share",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "TERT",
+  "chr": 5,
+  "start": 1.28,
+  "end": 1.28,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Cell cycle & apoptosis",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "TCF7",
+  "chr": 5,
+  "start": 133.45,
+  "end": 133.45,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "IL12B",
+  "chr": 5,
+  "start": 158.7,
+  "end": 158.7,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "DEF6",
+  "chr": 6,
+  "start": 35.3,
+  "end": 35.3,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "GTF2IRD1-GTF2I",
+  "chr": 7,
+  "start": 74.1,
+  "end": 74.1,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "10q24.33 (USMG5)",
+  "chr": 10,
+  "start": 105.1,
+  "end": 105.1,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Genome-wide association study in an Amerindian ancestry population reveals novel systemic lupus erythematosus risk loci and the role of European admixture",
+  "doi": "10.1002/art.39504",
+  "study": ""
+ },
+ {
+  "label": "PCNXL3",
+  "chr": 11,
+  "start": 65.4,
+  "end": 65.4,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "RASGRP1",
+  "chr": 15,
+  "start": 38.8,
+  "end": 38.8,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Mechanistic Characterization of RASGRP1 Variants Identifies an hnRNP-K-Regulated Transcriptional Enhancer Contributing to SLE Susceptibility",
+  "doi": "10.3389/fimmu.2019.01066",
+  "study": "2019_Molineros_FrontImmunol_RASGRP1"
+ },
+ {
+  "label": "SIGLEC6",
+  "chr": 19,
+  "start": 52.03,
+  "end": 52.03,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "SYNGR1",
+  "chr": 22,
+  "start": 39.75,
+  "end": 39.75,
+  "year": 2016,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "High-density genotyping of immune-related loci identifies new SLE risk variants in individuals with Asian ancestry",
+  "doi": "10.1038/ng.3496",
+  "study": ""
+ },
+ {
+  "label": "RASGRP3",
+  "chr": 2,
+  "start": 33.7,
+  "end": 33.7,
+  "year": 2017,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Intronic variants of the B-cell proliferator RASGRP3 affect its expression, and might contribute to lupus risk",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "EPHA3-PROS1",
+  "chr": 3,
+  "start": 93.6,
+  "end": 93.6,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Immune complexes & phagocytes",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "IL12A",
+  "chr": 3,
+  "start": 159.7,
+  "end": 159.7,
+  "year": 2017,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Evaluation of 10 SLE susceptibility loci in Asian populations, which were initially identified in European populations",
+  "doi": "10.1038/srep41399",
+  "study": ""
+ },
+ {
+  "label": "MYNN",
+  "chr": 3,
+  "start": 169.5,
+  "end": 169.5,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Confirmation of five novel susceptibility loci for systemic lupus erythematosus (SLE) and integrated network analysis of 82 SLE susceptibility loci",
+  "doi": "10.1093/hmg/ddx026",
+  "study": ""
+ },
+ {
+  "label": "DGKQ",
+  "chr": 4,
+  "start": 0.95,
+  "end": 0.95,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "PTTG1-MIR146A",
+  "chr": 5,
+  "start": 159.9,
+  "end": 159.9,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "AA"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "SLC17A4-LRRC16A",
+  "chr": 6,
+  "start": 25.75,
+  "end": 25.75,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "UHRF1BP1",
+  "chr": 6,
+  "start": 34.8,
+  "end": 34.8,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "AA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "ANKS1A",
+  "chr": 6,
+  "start": 34.9,
+  "end": 34.9,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Confirmation of five novel susceptibility loci for systemic lupus erythematosus (SLE) and integrated network analysis of 82 SLE susceptibility loci",
+  "doi": "10.1093/hmg/ddx026",
+  "study": ""
+ },
+ {
+  "label": "TCP11-SCUBE3",
+  "chr": 6,
+  "start": 35.1,
+  "end": 35.1,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "OLIG3",
+  "chr": 6,
+  "start": 137.8,
+  "end": 137.8,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "RSPH3",
+  "chr": 6,
+  "start": 159.4,
+  "end": 159.4,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "FAM86B3P",
+  "chr": 8,
+  "start": 8.1,
+  "end": 8.1,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "PLAT",
+  "chr": 8,
+  "start": 42.0,
+  "end": 42.0,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "AA"
+  ],
+  "pathway": "Immune complexes & phagocytes",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "PKIA-ZC2HC1A",
+  "chr": 8,
+  "start": 79.5,
+  "end": 79.5,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "RNASEH2C",
+  "chr": 11,
+  "start": 65.5,
+  "end": 65.5,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Confirmation of five novel susceptibility loci for systemic lupus erythematosus (SLE) and integrated network analysis of 82 SLE susceptibility loci",
+  "doi": "10.1093/hmg/ddx026",
+  "study": ""
+ },
+ {
+  "label": "ATG16L2",
+  "chr": 11,
+  "start": 72.5,
+  "end": 72.5,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "Autophagy & lysosome",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Confirmation of five novel susceptibility loci for systemic lupus erythematosus (SLE) and integrated network analysis of 82 SLE susceptibility loci",
+  "doi": "10.1093/hmg/ddx026",
+  "study": ""
+ },
+ {
+  "label": "DYRK2-IFNG",
+  "chr": 12,
+  "start": 68.5,
+  "end": 68.5,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "SYT1",
+  "chr": 12,
+  "start": 79.6,
+  "end": 79.6,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "GALC",
+  "chr": 14,
+  "start": 88.4,
+  "end": 88.4,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Autophagy & lysosome",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "CLEC16A",
+  "chr": 16,
+  "start": 11.1,
+  "end": 11.1,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "HA",
+   "EA",
+   "AA"
+  ],
+  "pathway": "Autophagy & lysosome",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Defining Mechanistic Links Between the Non-Coding Variant rs17673553 in CLEC16A and Lupus Susceptibility",
+  "doi": "10.3390/ijms26010314",
+  "study": "2025_Rallabandi_IJMS_CLEC16A"
+ },
+ {
+  "label": "CCL22",
+  "chr": 16,
+  "start": 57.4,
+  "end": 57.4,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Confirmation of five novel susceptibility loci for systemic lupus erythematosus (SLE) and integrated network analysis of 82 SLE susceptibility loci",
+  "doi": "10.1093/hmg/ddx026",
+  "study": ""
+ },
+ {
+  "label": "CSNK2A2-CCDC113",
+  "chr": 16,
+  "start": 58.2,
+  "end": 58.2,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "ZFP90",
+  "chr": 16,
+  "start": 68.6,
+  "end": 68.6,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "AA"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "GRB2",
+  "chr": 17,
+  "start": 73.4,
+  "end": 73.4,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "C1QTNF6",
+  "chr": 22,
+  "start": 37.6,
+  "end": 37.6,
+  "year": 2017,
+  "method": "GWAS",
+  "role": "collab",
+  "ancestry": [
+   "HA"
+  ],
+  "pathway": "Immune complexes & phagocytes",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Transancestral mapping and genetic load in systemic lupus erythematosus",
+  "doi": "10.1038/ncomms16021",
+  "study": "2017_Langefeld_NatCommun_Transancestral"
+ },
+ {
+  "label": "STAT1-STAT4",
+  "chr": 2,
+  "start": 191.85,
+  "end": 191.85,
+  "year": 2018,
+  "method": "Fine-mapping",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "A plausibly causal functional lupus-associated risk variant in the STAT1–STAT4 locus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "XKR6",
+  "chr": 8,
+  "start": 11.0,
+  "end": 11.0,
+  "year": 2018,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "Childhood-onset SLE",
+  "paper": "Genetic variants in systemic lupus erythematosus susceptibility loci, XKR6 and GLT1D1 are associated with childhood-onset SLE in a Korean cohort",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "GLT1D1",
+  "chr": 12,
+  "start": 129.4,
+  "end": 129.4,
+  "year": 2018,
+  "method": "Candidate gene",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Not resolved",
+  "disease": "Childhood-onset SLE",
+  "paper": "Genetic variants in systemic lupus erythematosus susceptibility loci, XKR6 and GLT1D1 are associated with childhood-onset SLE in a Korean cohort",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "FBXO31-MAP1LC3B",
+  "chr": 16,
+  "start": 87.4,
+  "end": 87.4,
+  "year": 2018,
+  "method": "GWAS",
+  "role": "partner",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "Autophagy & lysosome",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "A Rare Variant (rs933717) at FBXO31-MAP1LC3B in Chinese Is Associated With Systemic Lupus Erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "DAP1",
+  "chr": 5,
+  "start": 10.7,
+  "end": 10.7,
+  "year": 2020,
+  "method": "Fine-mapping",
+  "role": "collab",
+  "ancestry": [
+   "EA"
+  ],
+  "pathway": "Cell cycle & apoptosis",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Deep sequencing reveals a DAP1 regulatory haplotype that potentiates autoimmunity in systemic lupus erythematosus",
+  "doi": "",
+  "study": ""
+ },
+ {
+  "label": "CDKN1B",
+  "chr": 12,
+  "start": 12.87,
+  "end": 12.87,
+  "year": 2021,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA",
+   "AA",
+   "HA"
+  ],
+  "pathway": "Cell cycle & apoptosis",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Lupus Susceptibility Region Containing CDKN1B rs34330 Mechanistically Influences Expression and Function of Multiple Target Genes",
+  "doi": "10.1002/art.41799",
+  "study": ""
+ },
+ {
+  "label": "2p13.1 (DGUOK)",
+  "chr": 2,
+  "start": 74.18,
+  "end": 74.18,
+  "year": 2022,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "HA",
+   "EAS"
+  ],
+  "pathway": "Gene regulation",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "Discovery and functional characterization of two regulatory variants underlying lupus susceptibility at 2p13.1",
+  "doi": "10.3390/genes13061016",
+  "study": "2022_FazelNajafabadi_Genes_2p13"
+ },
+ {
+  "label": "IRS1",
+  "chr": 2,
+  "start": 227.6,
+  "end": 227.6,
+  "year": 2022,
+  "method": "GWAS",
+  "role": "lab",
+  "ancestry": [
+   "EGY"
+  ],
+  "pathway": "Cell cycle & apoptosis",
+  "variant": "Not resolved",
+  "disease": "SLE",
+  "paper": "Genome-wide association study for systemic lupus erythematosus in an Egyptian population",
+  "doi": "10.3389/fgene.2022.948505",
+  "study": "2022_Elghzaly_FrontGenet_EgyptianGWAS"
+ },
+ {
+  "label": "SLC15A4",
+  "chr": 12,
+  "start": 129.3,
+  "end": 129.3,
+  "year": 2023,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EAS",
+   "EA"
+  ],
+  "pathway": "Autophagy & lysosome",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "A non-coding variant in SLC15A4 modulates enhancer activity and lysosomal deacidification linked to lupus susceptibility",
+  "doi": "10.3389/flupu.2023.1244670",
+  "study": "2023_Singh_FrontLupus_SLC15A4"
+ },
+ {
+  "label": "ELF1",
+  "chr": 13,
+  "start": 41.5,
+  "end": 41.5,
+  "year": 2024,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EA",
+   "EAS"
+  ],
+  "pathway": "B-cell signalling",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "A multilayered post-GWAS analysis pipeline defines functional variants and target genes for systemic lupus erythematosus (SLE)",
+  "doi": "10.1101/2023.04.07.23288295",
+  "study": ""
+ },
+ {
+  "label": "KLF2",
+  "chr": 19,
+  "start": 16.43,
+  "end": 16.43,
+  "year": 2024,
+  "method": "Fine-mapping",
+  "role": "lab",
+  "ancestry": [
+   "EAS"
+  ],
+  "pathway": "T-cell signalling & cytokines",
+  "variant": "Enhancer",
+  "disease": "SLE",
+  "paper": "KLF2 enhancer variant rs4808485 increases lupus risk by modulating inflammasome machinery and cellular homoeostasis",
+  "doi": "10.1136/ard-2023-224953",
+  "study": ""
+ },
+ {
+  "label": "IRF7",
+  "chr": 11,
+  "start": 0.61,
+  "end": 0.61,
+  "year": 2026,
+  "method": "Fine-mapping",
+  "role": "collab",
+  "ancestry": [
+   "EA",
+   "AA",
+   "EAS"
+  ],
+  "pathway": "Interferon & innate immunity",
+  "variant": "Coding",
+  "disease": "SLE",
+  "paper": "A highly prevalent lupus risk haplotype increases IRF7-dependent induction of IFN-α, enhancing antiviral defense and exacerbating autoimmunity",
+  "doi": "10.1016/j.ajhg.2026.08.016",
+  "study": ""
+ }
+]
